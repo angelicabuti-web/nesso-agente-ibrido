@@ -1,0 +1,1621 @@
+ticket_id,data_apertura,campus,area_prodotto,canale,categoria,stato,prima_risposta_ore,risoluzione_ore,soddisfazione
+T01075,2026-05-17,Roma,Schede,web,Termine da chiarire,risolta,21.5,24.5,4
+T00834,2026-01-09,Torino,Schede,web,Fonte da verificare,aperta,9.7,,
+T01415,2026-02-18,Torino,Diario,email,Grafico,risolta,2.9,22.6,5
+T01242,2026-08-08,Milano,Supporto umano,app,Link non raggiungibile,in_lavorazione,28.8,,
+T00115,2026-09-25,Bologna,Account,app,Informazioni privacy,risolta,45.6,119.3,
+T00033,2026-01-21,Milano,Diario,app,Grafico,aperta,9999,,
+T00610,2026-01-18,Torino, SUPPORTO UMANO ,email,Informazioni risorse,aperta,56.3,,
+T00108,2026-04-28,Bologna,Account,web,Informazioni privacy,in_lavorazione,10.1,,
+T01436,2026-09-18,Torino,Schede,app,Fonte da verificare,risolta,8.2,19.4,
+T01405,2026-01-26,Milano,Diario,app,Grafico,risolta,76.6,101.2,5
+T00745,2026-01-11,Milano,Supporto umano,web,Informazioni risorse,risolta,12.6,70.7,4
+T01044,2026-09-02,Milano,Chat IA,app,Risposta non disponibile,risolta,9999,104.7,5
+T00268,2026-07-22,Bologna,Chat IA,app,Risposta non disponibile,in_lavorazione,12.4,,
+T00998,2026-04-23,Bologna,Chat IA,app,Risposta non disponibile,risolta,22.0,88.9,
+T00804,2026-09-13,Roma,Diario,app,Salvataggio,risolta,16.8,89.2,5
+T01079,2026-06-21,Bologna,Account,web,Informazioni privacy,risolta,45.7,133.7,2
+T01177,2026-04-18,Bologna,Chat IA,email,Risposta non disponibile,risolta,63.6,101.5,5
+T00287,2026-05-22,Torino,Chat IA,app,Limiti IA,aperta,14.2,,
+T00693,2026-09-08,Torino,Schede,web,Termine da chiarire,in_lavorazione,45.2,,
+T01286,2026-07-11,Milano,Diario,app,Grafico,in_lavorazione,,,
+T00669,2026-02-06,Torino,Schede,app,Navigazione,risolta,7.0,83.7,
+T01352,2026-01-11,Torino,Schede,web,Termine da chiarire,risolta,4.7,84.6,5
+T00251,2026-09-30,Torino,Chat IA,email,Risposta non disponibile,risolta,6.8,83.1,
+T00487,2026-05-11,Torino,Diario,app,Eliminazione,risolta,11.6,82.1,2
+T00430,2026-07-02,Bologna,Diario,app,Grafico,aperta,23.2,,
+T00059,2026-07-09,Roma,Chat IA,app,Limiti IA,risolta,,106.7,
+T01029,2026-03-12,Bologna,Supporto umano,web,Link non raggiungibile,in_lavorazione,17.4,,
+T01365,2026-04-09,Torino,Account,web,Accesso,risolta,41.7,63.3,
+T01306,2026-04-01,Milano,Account,app,Accesso,risolta,8.2,14.9,
+T01435,2026-02-26,Torino,Diario,web,Eliminazione,risolta,6.3,84.4,
+T00827,2026-01-13,Milano,Diario,web,Eliminazione,in_lavorazione,18.3,,
+T01105,2026-07-06,Bologna,Schede,app,Termine da chiarire,risolta,8.7,52.7,4
+T01333,2026-09-02,Bologna,Schede,email,Fonte da verificare,risolta,8.5,43.8,
+T01073,2026-01-11,Torino,Schede,email,Termine da chiarire,risolta,20.6,35.9,
+T01573,2026-02-10,Milano,Chat IA,app,Limiti IA,risolta,8.3,101.3,3
+T00007,2026-07-23,Roma,Account,email,Informazioni privacy,risolta,15.7,18.1,4
+T01036,2026-01-06,Roma,Diario,app,Grafico,risolta,27.5,119.8,4
+T01383,2026-07-28,Bologna,Account,web,Informazioni privacy,risolta,26.5,40.8,4
+T00190,2026-08-07,Bologna,Chat IA,app,Limiti IA,risolta,95.0,109.0,4
+T00815,2026-07-28,Torino,Chat IA,web,Come funziona,risolta,18.4,108.5,
+T01163,2026-04-22,Bologna,Diario,app,Grafico,risolta,6.6,97.4,3
+T01420,2026-08-18,Roma,Schede,app,Navigazione,risolta,4.7,80.9,4
+T00356,2026-03-17,Roma,Supporto umano,app,Informazioni risorse,risolta,13.7,30.8,
+T00799,2026-07-13,Torino,Schede,email,Navigazione,risolta,12.7,84.7,
+T00061,2026-05-14,Milano,Schede,email,Navigazione,risolta,8.6,71.5,5
+T00914,2026-02-22,Bologna,Diario,web,Grafico,risolta,3.4,89.2,
+T00196,2026-05-13,Torino,Supporto umano,email,Link non raggiungibile,in_lavorazione,10.2,,
+T00279,2026-06-26,Roma,Diario,web,Grafico,risolta,9.6,74.9,4
+T01254,2026-08-27,Roma,Account,web,Informazioni privacy,aperta,5.9,,
+T00201,2026-02-13,Torino,Schede,email,Termine da chiarire,risolta,41.1,49.1,
+T01304,2026-06-09,Milano,Chat IA,web,Risposta non disponibile,risolta,4.0,16.4,1
+T00833,2026-02-08,Torino,Chat IA,web,Risposta non disponibile,risolta,10.9,90.4,5
+T00576,2026-09-10,Milano,Chat IA,app,Limiti IA,risolta,28.2,57.8,
+T01150,2026-07-08,Milano,Schede,app,Navigazione,risolta,12.9,70.2,4
+T00970,2026-07-21,Milano,Diario,app,Salvataggio,risolta,39.4,53.4,4
+T00569,2026-07-07,Bologna,Chat IA,app,Come funziona,in_lavorazione,38.9,,
+T00123,2026-04-28,Torino,Account,app,Informazioni privacy,aperta,8.1,,
+T01328,2026-06-10,Bologna,Account,app,Accesso,risolta,7.4,22.1,2
+T00959,2026-07-29,Milano,Schede,web,Fonte da verificare,risolta,18.9,79.3,
+T00616,2026-08-25,Bologna,Account,app,Informazioni privacy,risolta,16.7,37.7,4
+T00068,2026-04-19,Torino,Chat IA,app,Limiti IA,risolta,15.7,28.7,4
+T01490,2026-09-08,Milano,Chat IA,app,Come funziona,risolta,22.5,38.7,4
+T00568,2026-08-11,Torino,Diario,app,Eliminazione,risolta,8.8,84.6,3
+T00892,2026-06-16,Milano,Chat IA,email,Risposta non disponibile,risolta,32.1,84.6,
+T01100,2026-07-23,Torino,Chat IA,app,Come funziona,risolta,9.8,99.8,
+T00261,2026-04-14,Torino,Chat IA,email,Limiti IA,risolta,39.5,52.1,3
+T00780,2026-06-06,Bologna,Schede,app,Termine da chiarire,risolta,20.9,103.1,4
+T00913,2026-03-13,Milano,Diario,web,Grafico,risolta,10.5,37.8,5
+T00533,2026-03-14,Roma,Account,app,Accesso,risolta,29.5,111.5,
+T01419,2026-02-10,Torino,Diario,web,Grafico,in_lavorazione,52.9,,
+T01223,2026-02-05,Torino,Schede,app,Fonte da verificare,aperta,16.1,,
+T01428,2026-09-17,Roma,Account,web,Informazioni privacy,risolta,13.5,56.6,5
+T00844,2026-07-21,Milano,Schede,app,Termine da chiarire,risolta,34.5,43.3,4
+T01164,2026-08-20,Roma,Account,app,Informazioni privacy,in_lavorazione,25.5,,
+T00015,2026-09-22,Bologna,Chat IA,app,Come funziona,risolta,11.0,51.3,4
+T00318,2026-09-24,Roma,Chat IA,app,Limiti IA,in_lavorazione,20.3,,
+T00412,2026-03-01,Bologna,Chat IA,app,Limiti IA,risolta,14.7,73.8,
+T00406,2026-09-25,Torino,Schede,web,Navigazione,risolta,38.9,100.5,5
+T00216,2026-01-02,Roma,Schede,app,Termine da chiarire,risolta,9999,23.7,5
+T00179,2026-02-01,Torino,Chat IA,app,Come funziona,risolta,25.6,94.6,4
+T01300,2026-05-19,Milano, CHAT IA ,web,Limiti IA,risolta,33.7,89.0,4
+T01439,2026-08-30,Bologna,Schede,web,Navigazione,in_lavorazione,5.3,,
+T00731,2026-07-14,Torino,Chat IA,app,Risposta non disponibile,risolta,5.5,78.7,5
+T00194,2026-05-07,Bologna,Diario,web,Salvataggio,risolta,12.3,25.3,5
+T00056,2026-03-19,Torino,Schede,app,Termine da chiarire,risolta,3.6,41.8,
+T00800,2026-03-27,Bologna,Account,web,Accesso,risolta,11.4,80.4,
+T00282,2026-02-22,Torino,Account,app,Accesso,in_lavorazione,31.4,,
+T00238,2026-03-28,Roma,Schede,app,Navigazione,risolta,8.7,73.7,4
+T01090,2026-09-24,Torino,Supporto umano,app,Link non raggiungibile,risolta,22.7,116.2,4
+T00805,2026-09-13,Torino,Schede,email,Termine da chiarire,risolta,26.0,74.9,
+T00789,2026-08-10,Milano,Diario,web,Grafico,in_lavorazione,29.6,,
+T01184,2026-06-12,Torino,Supporto umano,app,Link non raggiungibile,risolta,5.7,43.3,4
+T00171,2026-06-21,Torino,Supporto umano,web,Link non raggiungibile,risolta,7.6,17.4,5
+T00595,2026-04-28,Torino,Schede,app,Fonte da verificare,risolta,38.4,117.3,4
+T01186,2026-02-17,Milano,Supporto umano,app,Informazioni risorse,in_lavorazione,10.5,,
+T01522,2026-06-23,Bologna,Chat IA,web,Risposta non disponibile,risolta,3.3,96.7,5
+T00373,2026-02-19,Roma,Chat IA,app,Risposta non disponibile,in_lavorazione,7.5,,
+T01302,2026-05-02,Milano,Diario,app,Eliminazione,risolta,25.3,95.7,4
+T00024,2026-07-06,Bologna,Diario,email,Grafico,in_lavorazione,14.1,,
+T00554,2026-07-02,Roma,Diario,web,Salvataggio,risolta,3.0,91.5,5
+T00267,2026-04-24,Bologna,Diario,app,Grafico,risolta,12.6,9999,3
+T00226,2026-02-08,Torino,Chat IA,app,Come funziona,risolta,12.1,84.7,3
+T01511,2026-06-15,Bologna,Diario,app,Salvataggio,risolta,7.3,63.1,4
+T00966,2026-04-04,Milano,Chat IA,app,Come funziona,in_lavorazione,8.5,,
+T01583,2026-07-09,Bologna,Chat IA,app,Limiti IA,risolta,62.8,127.4,
+T00895,2026-04-27,Roma,Diario,web,Grafico,risolta,8.8,78.4,4
+T01469,2026-05-26,Torino,Chat IA,app,Limiti IA,risolta,3.3,46.4,
+T00999,2026-01-03,Torino,Diario,app,Salvataggio,risolta,15.6,66.9,4
+T01356,2026-08-26,Roma,Account,app,Informazioni privacy,risolta,9.3,17.5,4
+T00641,2026-02-26,Milano,Diario,app,Eliminazione,risolta,,116.2,
+T00557,2026-09-10,Bologna,Supporto umano,web,Informazioni risorse,risolta,9.6,46.7,2
+T01374,2026-09-04,Torino,Schede,app,Termine da chiarire,risolta,6.5,48.3,4
+T01069,2026-02-04,Milano,Diario,app,Eliminazione,risolta,15.4,102.0,
+T01247,2026-06-30,Bologna,Schede,web,Fonte da verificare,risolta,96.2,164.6,3
+T01487,2026-03-06,Bologna,Diario,app,Eliminazione,risolta,19.0,46.2,5
+T01571,2026-07-09,Roma,Chat IA,app,Risposta non disponibile,risolta,8.4,103.0,3
+T00252,2026-02-08,Roma,Chat IA,app,Risposta non disponibile,risolta,12.5,69.3,
+T01375,2026-04-08,Roma,Chat IA,app,Risposta non disponibile,risolta,-3,29.0,4
+T00735,2026-01-04,Torino,Supporto umano,app,Informazioni risorse,risolta,6.3,87.5,
+T01418,2026-05-31,Bologna,Diario,app,Eliminazione,aperta,17.5,,
+T00732,2026-04-11,Roma,Diario,email,Eliminazione,risolta,9.5,35.1,4
+T00464,2026-03-09,Milano,Chat IA,app,Come funziona,risolta,3.6,35.5,5
+T00715,2026-06-14,Bologna,Chat IA,web,Limiti IA,risolta,32.0,65.4,3
+T01572,2026-04-25,Roma,Chat IA,email,Risposta non disponibile,risolta,5.6,63.4,4
+T00996,2026-02-22,Bologna,Supporto umano,web,Informazioni risorse,aperta,9.8,,
+T00539,2026-06-26,Torino,Account,email,Accesso,risolta,9.3,32.1,5
+T00416,2026-01-01,Bologna,Account,app,Accesso,in_lavorazione,17.2,,
+T00373,2026-02-19,Roma,Chat IA,app,Risposta non disponibile,in_lavorazione,7.5,,
+T00696,2026-06-24,Roma,Diario,web,Eliminazione,risolta,27.2,86.6,5
+T01500,2026-07-28,Bologna,Supporto umano,app,Link non raggiungibile,risolta,28.8,32.5,
+T01145,2026-02-27,Bologna,Schede,app,Fonte da verificare,risolta,7.3,47.3,3
+T01020,2026-07-17,Roma,Schede,web,Termine da chiarire,risolta,66.2,143.8,4
+T01126,2026-06-01,Milano, SUPPORTO UMANO ,email,Link non raggiungibile,aperta,7.1,,
+T00463,2026-04-11,Bologna,Schede,app,Termine da chiarire,risolta,29.1,58.4,5
+T01058,2026-08-02,Bologna,Chat IA,web,Limiti IA,risolta,6.2,13.3,2
+T00062,2026-05-15,Torino,Chat IA,app,Limiti IA,risolta,15.0,95.8,
+T00422,2026-05-11,Torino,Account,app,Informazioni privacy,in_lavorazione,21.8,,
+T01550,2026-02-11,Roma,Schede,app,Fonte da verificare,risolta,7.0,10.9,5
+T00784,2026-07-18,Bologna,Account,app,Accesso,risolta,11.0,103.0,5
+T01323,2026-05-04,Bologna,Chat IA,web,Limiti IA,risolta,3.8,92.8,3
+T00093,2026-07-02,Bologna,Chat IA,email,Come funziona,risolta,7.9,92.8,5
+T00593,2026-02-24,Milano,Chat IA,app,Limiti IA,risolta,2.6,12.9,4
+T01310,2026-09-12,Torino,Schede,web,Fonte da verificare,in_lavorazione,8.0,,
+T00646,2026-01-26,Bologna,Schede,web,Navigazione,in_lavorazione,24.2,,
+T01095,2026-02-21,Torino,Chat IA,app,Limiti IA,risolta,11.3,83.7,4
+T00626,2026-07-08,Torino,Account,app,Accesso,risolta,11.6,46.4,3
+T01387,2026-09-24,Roma,Chat IA,web,Come funziona,aperta,13.4,,
+T00351,2026-09-04,Milano,Chat IA,app,Limiti IA,in_lavorazione,30.8,,
+T00979,2026-02-10,Roma,Chat IA,app,Limiti IA,risolta,14.7,107.7,5
+T01027,2026-06-28,Torino,Schede,web,Navigazione,risolta,10.3,48.0,4
+T00440,2026-09-19,Roma,Chat IA,web,Limiti IA,risolta,3.3,51.5,5
+T00738,2026-08-20,Torino,Chat IA,app,Come funziona,risolta,9999,70.6,5
+T00934,2026-02-01,Milano,Schede,app,Termine da chiarire,risolta,13.7,87.3,5
+T01384,2026-07-23,Roma,Chat IA,app,Come funziona,risolta,9999,74.3,
+T01215,2026-09-30,Torino,Diario,app,Eliminazione,in_lavorazione,16.3,,
+T00964,2026-01-15,Milano,Account,app,Informazioni privacy,risolta,7.9,99.5,5
+T01460,2026-05-05,Bologna,Schede,app,Termine da chiarire,in_lavorazione,6.9,,
+T00589,2026-07-09,Torino,Diario,app,Salvataggio,risolta,6.2,21.8,
+T00512,2026-04-19,Milano,Chat IA,app,Risposta non disponibile,risolta,4.8,55.2,
+T00253,2026-06-11,Torino,Schede,web,Navigazione,risolta,35.1,101.9,1
+T00783,31/02/2026,Roma,Chat IA,web,Risposta non disponibile,risolta,69.7,136.1,4
+T01497,2026-07-30,Bologna,Supporto umano,web,Link non raggiungibile,risolta,6.5,25.3,5
+T00724,2026-07-15,Bologna,Chat IA,email,Come funziona,risolta,8.8,96.6,
+T00662,2026-09-19,Milano,Chat IA,app,Limiti IA,risolta,49.3,67.1,
+T00850,2026-07-12,Torino,Diario,app,Eliminazione,risolta,24.8,43.0,4
+T01297,2026-05-02,Roma,Schede,app,Navigazione,risolta,12.0,80.8,4
+T00752,2026-05-11,Torino,Account,app,Informazioni privacy,risolta,3.3,64.6,3
+T00180,2026-03-05,Roma,Chat IA,app,Risposta non disponibile,risolta,7.5,37.7,5
+T01251,2026-01-10,Milano,Supporto umano,email,Informazioni risorse,risolta,6.3,78.2,
+T00586,2026-02-04,Bologna,Chat IA,web,Limiti IA,risolta,16.2,64.8,
+T00908,2026-07-02,Torino,Supporto umano,email,Link non raggiungibile,risolta,11.0,96.2,5
+T01373,2026-02-18,Bologna,Chat IA,web,Risposta non disponibile,risolta,5.0,45.9,5
+T00756,2026-02-06,Roma,Schede,app,Fonte da verificare,risolta,39.9,72.7,
+T01401,2026-01-27,Bologna,Chat IA,web,Come funziona,risolta,16.3,20.0,4
+T00924,2026-01-22,Bologna,Account,app,Accesso,risolta,27.2,99.1,5
+T00419,2026-08-24,Torino,Diario,email,Salvataggio,risolta,21.2,76.9,4
+T01391,2026-04-20,Milano,Diario,email,Salvataggio,risolta,34.0,111.6,3
+T01014,2026-02-25,Roma,Chat IA,web,Limiti IA,in_lavorazione,14.2,,
+T00770,2026-02-24,Roma,Supporto umano,web,Link non raggiungibile,risolta,10.2,66.2,
+T01096,2026-03-12,Roma,Diario,web,Salvataggio,in_lavorazione,42.8,,
+T00867,2026-03-07,Torino,Supporto umano,web,Informazioni risorse,in_lavorazione,22.8,,
+T00429,2026-04-19,Roma,Account,email,Informazioni privacy,risolta,31.1,73.7,4
+T01574,2026-01-12,Milano,Diario,app,Eliminazione,in_lavorazione,20.9,,
+T00602,04/09/2026,Milano,Diario,app,Eliminazione,risolta,9.7,49.2,3
+T01287,2026-09-23,Roma,Diario,app,Grafico,in_lavorazione,11.0,,
+T00676,2026-09-30,Torino,Supporto umano,web,Informazioni risorse,aperta,20.5,,
+T00563,2026-09-27,Milano, CHAT IA ,app,Come funziona,risolta,4.2,22.7,4
+T00489,2026-04-24,Milano,Chat IA,web,Come funziona,risolta,22.5,45.2,4
+T01322,2026-06-07,Milano,Chat IA,web,Come funziona,risolta,21.6,112.9,2
+T00778,2026-03-08,Roma,Chat IA,app,Risposta non disponibile,risolta,7.2,92.6,5
+T01065,2026-09-06,Roma,Chat IA,app,Come funziona,risolta,9.5,61.8,2
+T00195,2026-03-10,Milano,Chat IA,email,Come funziona,risolta,5.8,57.2,4
+T00178,2026-07-20,Torino,Schede,app,Termine da chiarire,risolta,6.7,56.5,4
+T00246,2026-08-30,Roma,Schede,app,Fonte da verificare,risolta,13.4,88.7,
+T01600,2026-09-08,Torino,Schede,app,Termine da chiarire,risolta,13.6,45.5,5
+T00637,2026-06-10,Bologna,Chat IA,app,Limiti IA,in_lavorazione,15.3,,
+T00909,2026-05-24,Bologna,Supporto umano,email,Link non raggiungibile,risolta,4.6,42.1,4
+T00590,2026-06-08,Roma,Chat IA,app,Risposta non disponibile,risolta,2.3,24.0,4
+T00259,2026-08-15,Bologna,Chat IA,email,Limiti IA,aperta,3.7,,
+T00363,2026-04-30,Milano,Chat IA,app,Limiti IA,risolta,3.5,64.4,
+T00188,2026-06-28,Roma,Chat IA,app,Risposta non disponibile,risolta,40.5,56.8,4
+T01530,2026-08-29,Milano,Diario,app,Salvataggio,risolta,7.5,55.8,4
+T00543,2026-09-08,Milano,Supporto umano,app,Informazioni risorse,risolta,5.8,47.8,
+T00522,2026-07-02,Bologna,Chat IA,web,Limiti IA,risolta,12.6,63.2,
+T00916,2026-09-11,Roma,Account,app,Accesso,risolta,20.2,30.5,3
+T01554,2026-09-02,Torino,Schede,app,Navigazione,risolta,3.7,18.3,3
+T01362,2026-09-13,Torino,Diario,web,Eliminazione,risolta,55.0,126.6,5
+T00323,2026-03-13,Torino,Account,app,Informazioni privacy,in_lavorazione,21.3,,
+T00010,2026-07-11,Roma,Account,email,Informazioni privacy,risolta,5.1,29.5,3
+T01499,2026-05-06,Milano,Supporto umano,app,Informazioni risorse,in_lavorazione,16.0,,
+T00906,2026-02-22,Bologna,Chat IA,web,Limiti IA,risolta,5.8,19.6,1
+T00976,2026-09-12,Milano,Account,web,Accesso,risolta,5.3,82.0,4
+T00343,2026-08-04,Bologna,Schede,app,Navigazione,risolta,12.7,97.2,4
+T00105,2026-08-19,Milano,Chat IA,app,Limiti IA,aperta,8.5,,
+T00400,2026-01-13,Bologna,Schede,app,Fonte da verificare,risolta,9.7,23.8,
+T00324,2026-05-12,Roma,Schede,app,Navigazione,risolta,6.0,95.8,
+T00494,2026-06-26,Bologna,Account,app,Informazioni privacy,risolta,12.7,91.6,
+T00374,2026-09-23,Roma,Chat IA,web,Limiti IA,aperta,17.6,,
+T00272,2026-05-04,Torino,Supporto umano,app,Informazioni risorse,risolta,16.8,89.1,5
+T00146,2026-07-28,Roma,Chat IA,app,Limiti IA,risolta,13.6,45.6,2
+T00305,2026-06-06,Bologna,Account,app,Accesso,risolta,3.8,39.8,3
+T00705,2026-05-22,Milano,Chat IA,web,Risposta non disponibile,risolta,39.8,46.5,3
+T00811,2026-06-30,Torino,Diario,app,Eliminazione,risolta,14.1,34.9,4
+T00304,2026-03-25,Roma,Chat IA,web,Risposta non disponibile,risolta,5.5,56.1,
+T01535,2026-09-18,Torino,Account,web,Accesso,risolta,9.7,75.7,3
+T00940,2026-02-12,Bologna,Supporto umano,web,Informazioni risorse,risolta,24.1,81.8,3
+T00335,2026-03-20,Roma,Schede,web,Termine da chiarire,risolta,40.7,80.9,1
+T01558,2026-02-10,Torino,Chat IA,app,Risposta non disponibile,risolta,30.6,52.8,
+T00917,2026-02-17,Torino,Schede,email,Fonte da verificare,risolta,8.5,25.5,3
+T01246,2026-01-07,Bologna,Schede,email,Fonte da verificare,risolta,7.7,34.8,4
+T00630,2026-04-26,Bologna,Chat IA,app,Come funziona,risolta,4.4,10.0,5
+T01149,2026-06-12,Torino,Supporto umano,web,Link non raggiungibile,risolta,8.7,85.0,5
+T00849,2026-06-20,Torino,Chat IA,app,Come funziona,risolta,22.2,34.2,4
+T01218,2026-07-02,Bologna,Diario,email,Eliminazione,risolta,14.0,28.4,4
+T01493,2026-01-13,Torino,Diario,app,Eliminazione,risolta,5.7,91.3,5
+T00801,20/06/2026,Bologna,Supporto umano,app,Informazioni risorse,risolta,22.2,30.7,4
+T00509,2026-07-27,Torino,Account,email,Informazioni privacy,aperta,34.0,,
+T01099,2026-02-14,Roma,Chat IA,app,Risposta non disponibile,in_lavorazione,14.3,,
+T00049,2026-03-06,Roma,Diario,web,Grafico,risolta,6.2,47.0,4
+T01166,2026-07-29,Bologna,Chat IA,email,Limiti IA,risolta,9.6,55.0,
+T01080,2026-09-27,Torino,Chat IA,web,Risposta non disponibile,risolta,5.3,15.3,
+T01092,2026-02-10,Bologna,Diario,app,Eliminazione,aperta,8.3,,
+T01402,2026-07-08,Milano,Chat IA,app,Risposta non disponibile,in_lavorazione,41.0,,
+T00937,2026-02-05,Milano,Schede,web,Fonte da verificare,risolta,7.6,71.9,4
+T00654,2026-09-12,Roma,Chat IA,app,Limiti IA,risolta,18.4,87.3,4
+T00692,2026-06-23,Bologna,Diario,app,Eliminazione,risolta,6.7,18.8,
+T00624,2026-05-15,Roma,Account,app,Informazioni privacy,risolta,13.6,83.0,5
+T00785,2026-01-30,Milano,Supporto umano,app,Informazioni risorse,risolta,15.0,106.4,
+T00447,2026-04-13,Milano,Diario,app,Eliminazione,risolta,,109.3,5
+T00428,2026-03-09,Bologna,Schede,web,Fonte da verificare,risolta,8.4,94.3,
+T01064,2026-01-23,Roma,Chat IA,web,Come funziona,in_lavorazione,17.5,,
+T01121,2026-09-09,Milano,Diario,web,Salvataggio,risolta,5.1,25.9,3
+T01152,2026-06-24,Torino,Diario,web,Grafico,risolta,4.2,89.1,
+T01317,31/02/2026,Bologna,Diario,app,Eliminazione,risolta,3.6,17.3,4
+T01227,2026-07-21,Torino,Chat IA,app,Limiti IA,risolta,10.9,13.3,3
+T00579,2026-09-20,Roma,Chat IA,email,Risposta non disponibile,risolta,12.0,100.2,2
+T00728,2026-07-31,Torino,Chat IA,app,Come funziona,risolta,13.5,76.5,3
+T00206,2026-05-04,Torino,Account,app,Accesso,risolta,12.0,60.8,3
+T00606,2026-06-07,Torino,Diario,app,Eliminazione,in_lavorazione,5.3,,
+T00529,2026-09-09,Roma,Diario,app,Grafico,risolta,6.2,68.2,
+T00580,2026-05-29,Bologna,Chat IA,app,Limiti IA,risolta,10.1,93.3,4
+T01345,13/03/2026,Milano,Supporto umano,email,Informazioni risorse,risolta,26.6,51.9,4
+T00792,2026-01-30,Milano,Supporto umano,app,Link non raggiungibile,aperta,10.1,,
+T00296,2026-07-21,Milano,Chat IA,app,Risposta non disponibile,risolta,7.8,50.6,
+T00035,2026-02-11,Milano,Diario,app,Eliminazione,risolta,14.4,28.1,
+T00771,2026-02-20,Roma,Chat IA,web,Limiti IA,in_lavorazione,5.5,,
+T01255,2026-01-04,Torino,Diario,email,Grafico,risolta,8.9,61.8,4
+T01030,23/02/2026,Bologna,Chat IA,web,Risposta non disponibile,risolta,16.4,21.7,4
+T00947,2026-08-15,Bologna,Chat IA,web,Risposta non disponibile,risolta,40.0,60.5,
+T00855,2026-02-15,Bologna,Chat IA,web,Risposta non disponibile,risolta,13.5,104.2,5
+T00627,2026-01-12,Milano,Diario,web,Salvataggio,in_lavorazione,27.0,,
+T01016,2026-02-10,Bologna,Schede,email,Navigazione,risolta,23.4,82.9,4
+T00904,2026-04-20,Torino,Diario,app,Salvataggio,risolta,37.2,129.5,
+T00591,2026-09-27,Torino,Schede,app,Navigazione,risolta,6.7,73.0,4
+T00395,2026-08-13,Milano,Schede,web,Navigazione,risolta,27.8,110.2,4
+T00876,2026-03-11,Roma,Chat IA,app,Come funziona,risolta,,70.4,5
+T01270,2026-02-01,Milano,Chat IA,app,Risposta non disponibile,risolta,11.8,79.4,5
+T01224,2026-06-17,Torino,Schede,email,Navigazione,risolta,7.3,74.5,
+T00053,2026-05-26,Roma,Chat IA,app,Come funziona,risolta,9.7,50.0,3
+T00402,2026-06-30,Bologna,Supporto umano,app,Informazioni risorse,risolta,11.1,66.8,4
+T00011,2026-02-19,Roma,Chat IA,app,Risposta non disponibile,risolta,39.2,94.4,
+T00357,2026-04-13,Bologna,Chat IA,app,Limiti IA,risolta,13.9,86.6,4
+T00694,2026-06-22,Torino,Account,web,Informazioni privacy,in_lavorazione,7.9,,
+T01341,2026-09-12,Milano,Diario,web,Eliminazione,risolta,19.9,59.5,4
+T00828,2026-06-02,Torino,Chat IA,web,Risposta non disponibile,aperta,17.4,,
+T01340,2026-09-24,Bologna,Account,app,Accesso,risolta,20.4,97.9,4
+T00045,2026-01-03,Torino,Diario,app,Eliminazione,risolta,3.1,11.2,
+T01040,2026-07-09,Milano,Chat IA,app,Limiti IA,in_lavorazione,5.3,,
+T01290,2026-04-05,Roma,Chat IA,email,Come funziona,risolta,16.8,73.4,
+T00342,2026-08-22,Torino,Account,APP,Accesso,risolta,9.0,43.1,4
+T00749,2026-09-04,Milano,Schede,app,Termine da chiarire,risolta,14.3,17.4,5
+T00137,2026-08-17,Roma,Schede,web,Termine da chiarire,risolta,5.6,44.8,4
+T01311,2026-02-14,Torino,Diario,web,Salvataggio,risolta,17.4,57.8,3
+T00165,2026-03-04,Roma,Schede,app,Navigazione,risolta,19.6,35.8,2
+T00309,2026-08-28,Roma,Schede,email,Fonte da verificare,risolta,22.4,96.7,
+T00404,2026-05-24,Torino,Chat IA,web,Risposta non disponibile,risolta,9.6,81.6,4
+T01041,2026-02-08,Bologna,Diario,web,Grafico,risolta,10.8,94.7,4
+T01293,2026-03-08,Torino,Chat IA,app,Come funziona,aperta,10.8,,
+T00269,2026-03-22,Torino,Chat IA,app,Limiti IA,in_lavorazione,14.0,,
+T00635,2026-02-07,Roma,Schede,app,Navigazione,in_lavorazione,18.9,,
+T01018,2026-01-12,Roma,Diario,web,Salvataggio,risolta,6.8,48.5,2
+T00670,2026-01-28,Torino,Supporto umano,web,Informazioni risorse,risolta,3.3,37.1,4
+T00382,2026-07-01,Milano,Diario,web,Salvataggio,risolta,36.8,107.6,
+T00643,2026-02-07,Milano,Supporto umano,web,Informazioni risorse,risolta,10.7,54.9,4
+T01308,2026-05-13,Milano,Schede,app,Fonte da verificare,risolta,8.9,33.9,
+T00485,2026-08-12,Torino,Schede,app,Navigazione,in_lavorazione,15.1,,
+T01389,2026-05-05,Roma,Schede,email,Termine da chiarire,risolta,36.7,107.9,4
+T01566,2026-08-18,Roma,Chat IA,app,Risposta non disponibile,risolta,2.6,68.4,4
+T01348,2026-09-29,Milano,Chat IA,email,Come funziona,risolta,6.7,86.6,
+T01257,2026-02-20,Milano,Account,app,Accesso,risolta,8.8,75.7,4
+T00478,2026-04-24,Roma,Chat IA,app,Limiti IA,in_lavorazione,104.2,,
+T00090,2026-09-14,Bologna,Schede,email,Fonte da verificare,risolta,41.5,49.7,4
+T00690,2026-08-18,Bologna,Supporto umano,web,Informazioni risorse,risolta,35.1,38.3,4
+T00153,2026-08-29,Milano,Account,email,Accesso,risolta,10.3,72.5,
+T00185,2026-09-02,Torino,Diario,app,Eliminazione,risolta,11.3,82.9,3
+T01534,2026-06-14,Milano,Chat IA,app,Limiti IA,risolta,17.1,90.5,4
+T00181,26/02/2026,Milano,Diario,app,Eliminazione,risolta,22.0,100.4,5
+T00863,2026-06-24,Roma,Diario,app,Salvataggio,risolta,3.5,13.6,3
+T01005,2026-08-19,Torino,Schede,app,Fonte da verificare,risolta,35.2,113.7,
+T00585,2026-08-19,Bologna,Diario,app,Grafico,risolta,9999,78.1,
+T01170,2026-02-15,Torino,Chat IA,app,Risposta non disponibile,in_lavorazione,2.0,,
+T00706,2026-06-21,Torino,Supporto umano,app,Informazioni risorse,risolta,12.6,105.0,
+T01043,2026-01-20,Bologna,Supporto umano,app,Informazioni risorse,in_lavorazione,23.1,,
+T00988,2026-07-22,Roma,Schede,app,Termine da chiarire,risolta,16.0,22.0,
+T01275,2026-07-12,Torino,Chat IA,web,Come funziona,risolta,10.5,73.3,
+T00328,2026-04-18,Roma,Schede,app,Termine da chiarire,risolta,38.4,53.0,5
+T00838,2026-04-01,Roma,Chat IA,WEB,Risposta non disponibile,risolta,12.2,100.8,5
+T01000,2026-06-30,Torino,Chat IA,app,Risposta non disponibile,in_lavorazione,3.8,,
+T01199,2026-09-07,Roma,Chat IA,app,Risposta non disponibile,in_lavorazione,38.2,,
+T00032,2026-02-25,Milano,Diario,app,Grafico,risolta,16.9,97.5,5
+T00465,2026-04-09,Milano,Chat IA,web,Limiti IA,risolta,6.5,75.9,4
+T00280,2026-09-03,Roma,Schede,app,Termine da chiarire,risolta,20.3,36.5,4
+T00375,2026-05-02,Torino,Account,app,Accesso,risolta,15.6,59.9,4
+T00336,2026-08-07,Torino,Diario,web,Eliminazione,risolta,27.4,57.6,5
+T00994,2026-07-09,Roma,Chat IA,email,Risposta non disponibile,risolta,6.2,33.6,3
+T00083,2026-01-31,Bologna,Diario,app,Grafico,risolta,8.1,81.8,4
+T01231,2026-02-22,Bologna,Account,app,Informazioni privacy,risolta,12.8,67.1,
+T01289,2026-05-11,Milano,Diario,app,Eliminazione,risolta,18.6,39.9,4
+T00240,2026-07-27,Torino,Account,app,Accesso,in_lavorazione,6.7,,
+T01191,2026-02-01,Bologna,Diario,email,Salvataggio,risolta,2.8,64.7,3
+T00306,2026-05-18,Bologna,Chat IA,app,Risposta non disponibile,risolta,8.8,13.6,3
+T00761,2026-01-27,Bologna,Chat IA,app,Come funziona,risolta,3.2,55.0,3
+T00444,2026-09-09,Milano,Chat IA,web,Limiti IA,risolta,4.8,76.8,5
+T01139,2026-08-18,Roma,Chat IA,app,Limiti IA,in_lavorazione,9.3,,
+T00361,2026-06-07,Bologna,Supporto umano,web,Link non raggiungibile,aperta,35.7,,
+T00365,2026-09-24,Milano,Schede,app,Navigazione,risolta,17.8,41.4,
+T00057,2026-05-19,Milano,Schede,app,Termine da chiarire,risolta,10.8,57.1,1
+T00283,2026-05-11,Torino,Diario,web,Salvataggio,risolta,13.3,43.7,
+T01273,2026-06-09,Bologna,Schede,web,Fonte da verificare,risolta,7.6,46.6,4
+T01538,2026-07-11,Bologna,Chat IA,app,Limiti IA,risolta,12.1,106.5,3
+T01176,2026-05-16,Bologna,Schede,app,Fonte da verificare,in_lavorazione,5.6,,
+T00030,2026-05-28,Milano,Diario,app,Grafico,risolta,23.9,84.4,2
+T01007,2026-09-03,Milano,Diario,app,Grafico,in_lavorazione,8.3,,
+T01056,2026-07-03,Milano,Diario,web,Salvataggio,in_lavorazione,35.2,,
+T00612,2026-02-14,Bologna,Supporto umano,web,Informazioni risorse,risolta,14.2,21.0,
+T00739,2026-01-23,Milano,Diario,app,Salvataggio,risolta,15.5,39.5,4
+T01416,2026-07-14,Torino,Account,email,Informazioni privacy,risolta,34.5,127.3,4
+T00549,2026-03-28,Roma,Account,app,Accesso,in_lavorazione,35.3,,
+T01433,2026-05-25,Milano,Account,email,Informazioni privacy,risolta,16.0,26.0,5
+T00192,2026-07-09,Roma,Schede,app,Fonte da verificare,risolta,4.8,30.9,5
+T00114,2026-05-17,Torino,Diario,app,Salvataggio,risolta,25.6,54.0,3
+T01033,2026-06-25,Torino, SCHEDE ,app,Termine da chiarire,risolta,20.0,66.6,4
+T00004,2026-06-09,Milano,Chat IA,web,Risposta non disponibile,risolta,7.3,74.0,5
+T01343,2026-09-24,Roma,Chat IA,web,Limiti IA,risolta,18.9,89.7,
+T00897,2026-04-22,Milano,Schede,web,Navigazione,risolta,5.6,66.9,
+T01078,2026-01-13,Roma,Diario,email,Salvataggio,risolta,23.4,39.9,2
+T01228,2026-07-10,Torino,Schede,web,Fonte da verificare,risolta,8.8,92.0,5
+T01118,2026-08-14,Milano,Supporto umano,app,Link non raggiungibile,risolta,3.0,78.9,4
+T01262,2026-01-01,Bologna,Chat IA,web,Come funziona,risolta,11.4,79.8,4
+T00649,2026-06-03,Torino,Diario,app,Grafico,risolta,20.0,94.7,5
+T00403,2026-05-21,Torino,Schede,web,Termine da chiarire,risolta,8.0,78.2,3
+T00708,2026-02-02,Torino,Schede,email,Termine da chiarire,risolta,2.9,54.4,
+T00202,2026-06-15,Milano,Account,email,Informazioni privacy,in_lavorazione,14.4,,
+T01195,2026-08-07,Roma,Chat IA,email,Limiti IA,risolta,10.3,43.6,3
+T00795,2026-02-02,Roma,Schede,web,Navigazione,risolta,5.6,29.0,
+T00750,2026-08-29,Roma,Schede,email,Termine da chiarire,risolta,11.4,64.7,
+T01034,2026-02-17,Milano,Diario,app,Eliminazione,risolta,9.4,42.0,4
+T01380,2026-04-01,Bologna,Schede,email,Navigazione,risolta,22.4,66.7,4
+T01156,2026-03-04,Torino,Account,app,Informazioni privacy,aperta,26.3,,
+T01113,2026-01-29,Torino,Schede,email,Fonte da verificare,risolta,7.1,56.3,
+T01475,2026-01-31,Bologna,Diario,web,Eliminazione,in_lavorazione,19.8,,
+T01264,2026-09-30,Roma,Chat IA,web,Risposta non disponibile,risolta,14.5,73.8,
+T00882,2026-03-10,Torino,Supporto umano,web,Link non raggiungibile,risolta,6.4,86.1,4
+T00677,2026-02-09,Torino,Chat IA,app,Come funziona,in_lavorazione,37.8,,
+T00233,2026-09-20,Roma,Schede,app,Termine da chiarire,risolta,11.5,58.0,
+T00501,2026-05-05,Milano,Chat IA,app,Come funziona,risolta,10.0,79.5,
+T00545,2026-03-20,Bologna,Chat IA,web,Risposta non disponibile,risolta,15.4,37.9,
+T01209,2026-02-23,Torino,Chat IA,web,Limiti IA,risolta,8.2,101.4,
+T00366,2026-06-10,Torino,Schede,web,Navigazione,risolta,16.0,19.9,4
+T01189,2026-07-09,Bologna,Diario,web,Grafico,aperta,12.1,,
+T00653,2026-01-14,Bologna,Chat IA,app,Come funziona,risolta,8.8,11.8,4
+T00262,2026-04-21,Torino,Diario,web,Grafico,in_lavorazione,15.8,,
+T00620,2026-05-24,Torino, SCHEDE ,web,Termine da chiarire,risolta,13.0,51.5,5
+T01087,2026-07-15,Torino,Diario,web,Eliminazione,risolta,3.5,39.9,
+T01493,2026-01-13,Torino,Diario,app,Eliminazione,risolta,5.7,91.3,5
+T01589,2026-05-23,Torino,Schede,app,Fonte da verificare,risolta,17.7,57.5,4
+T00922,2026-06-02,Torino,Diario,app,Grafico,risolta,62.8,156.0,5
+T00367,2026-07-30,Bologna,Account,email,Informazioni privacy,risolta,2.8,30.8,5
+T01061,2026-05-04,Roma,Supporto umano,web,Link non raggiungibile,risolta,26.2,55.0,
+T00634,2026-02-03,Torino,Chat IA,app,Limiti IA,risolta,20.8,75.8,4
+T00711,2026-02-10,Torino,Chat IA,email,Come funziona,risolta,40.7,107.2,
+T00149,2026-07-24,Milano,Schede,web,Termine da chiarire,risolta,21.2,62.4,4
+T00961,2026-07-15,Bologna,Account,app,Informazioni privacy,risolta,6.7,64.7,1
+T00354,2026-02-12,Bologna,Chat IA,app,Come funziona,risolta,3.0,31.3,
+T00218,2026-03-19,Milano,Schede,app,Fonte da verificare,risolta,7.7,72.4,
+T00665,2026-09-09,Milano,Chat IA,app,Limiti IA,risolta,5.4,58.4,
+T01509,2026-07-10,Roma,Supporto umano,app,Informazioni risorse,risolta,5.6,48.4,3
+T01536,2026-06-13,Milano,Schede,web,Termine da chiarire,risolta,6.8,63.8,4
+T01144,2026-05-26,Torino,Chat IA,web,Come funziona,risolta,33.0,48.6,4
+T00741,2026-03-29,Roma,Chat IA,email,Limiti IA,risolta,13.4,9999,4
+T00538,2026-03-18,Roma,Diario,web,Grafico,risolta,31.7,124.2,1
+T00880,2026-08-29,Milano,Chat IA,web,Risposta non disponibile,risolta,9.7,31.9,5
+T00087,2026-04-02,Torino,Chat IA,app,Limiti IA,aperta,16.1,,
+T01045,2026-06-01,Milano,Chat IA,app,Come funziona,risolta,12.6,26.5,4
+T00183,2026-06-25,Milano,Diario,app,Grafico,aperta,13.7,,
+T00231,2026-06-07,Roma,Diario,web,Salvataggio,risolta,14.5,24.3,4
+T01032,2026-03-14,Roma,Schede,web,Fonte da verificare,aperta,16.8,,
+T01337,2026-05-09,Milano,Diario,app,Eliminazione,risolta,25.4,88.2,4
+T00069,2026-06-16,Torino,Chat IA,app,Risposta non disponibile,risolta,,67.7,5
+T00432,2026-02-13,Roma,Schede,app,Fonte da verificare,risolta,41.4,57.1,5
+T00962,2026-09-23,Bologna,Account,app,Accesso,risolta,23.5,61.3,5
+T00986,2026-09-12,Torino,Chat IA,web,Risposta non disponibile,risolta,11.6,93.4,4
+T01248,2026-09-30,Roma,Diario,web,Eliminazione,risolta,4.1,90.8,
+T00359,2026-04-07,Torino,Chat IA,web,Come funziona,risolta,24.2,45.2,4
+T01200,2026-02-21,Torino,Diario,app,Salvataggio,risolta,6.4,85.9,
+T00104,2026-09-09,Milano,Chat IA,email,Limiti IA,risolta,9.1,99.3,4
+T00116,2026-03-07,Bologna,Account,app,Informazioni privacy,risolta,-3,87.2,5
+T01378,2026-04-12,Torino,Chat IA,app,Risposta non disponibile,risolta,9.5,52.6,2
+T01055,2026-08-22,Roma,Chat IA,web,Come funziona,risolta,5.6,78.3,2
+T01068,2026-04-14,Bologna,Diario,app,Salvataggio,risolta,25.8,85.7,
+T01305,2026-06-12,Torino,Schede,app,Fonte da verificare,risolta,24.7,53.2,4
+T00111,2026-09-19,Roma,Chat IA,web,Limiti IA,in_lavorazione,5.2,,
+T00037,31/02/2026,Bologna,Diario,app,Eliminazione,risolta,21.0,102.8,
+T01197,2026-09-22,Roma,Chat IA,web,Limiti IA,risolta,3.5,38.9,5
+T00651,2026-08-05,Milano,Chat IA,app,Limiti IA,aperta,4.1,,
+T00503,2026-05-02,Roma,Diario,app,Eliminazione,in_lavorazione,46.0,,
+T00714,2026-09-07,Roma,Chat IA,web,Come funziona,in_lavorazione,8.2,,
+T01295,2026-06-28,Milano,Diario,email,Grafico,aperta,20.7,,
+T00717,2026-09-01,Torino,Schede,app,Fonte da verificare,risolta,35.9,53.0,4
+T00358,2026-09-19,Milano,Chat IA,app,Limiti IA,risolta,15.3,87.7,3
+T00102,2026-03-22,Bologna,Chat IA,app,Limiti IA,in_lavorazione,43.2,,
+T00760,2026-09-27,Milano,Supporto umano,app,Link non raggiungibile,risolta,21.2,65.6,
+T01222,2026-04-07,Milano,Chat IA,app,Come funziona,risolta,2.4,29.6,4
+T01172,2026-05-07,Milano,Supporto umano,web,Informazioni risorse,in_lavorazione,18.3,,
+T00089,2026-06-09,Milano,Diario,app,Eliminazione,risolta,9.4,72.1,5
+T01017,2026-02-23,Milano,Supporto umano,app,Informazioni risorse,risolta,5.8,21.1,
+T00016,2026-05-18,Roma,Diario,email,Grafico,risolta,5.8,45.5,4
+T00423,2026-04-07,Torino,Diario,app,Salvataggio,risolta,11.6,40.1,
+T00540,2026-07-16,Milano,Supporto umano,app,Informazioni risorse,risolta,12.8,67.3,4
+T01431,2026-04-25,Torino,Diario,app,Eliminazione,risolta,4.3,62.9,
+T01063,2026-02-08,Bologna,Chat IA,app,Risposta non disponibile,in_lavorazione,15.2,,
+T01486,2026-06-18,Bologna,Account,email,Informazioni privacy,risolta,11.1,26.7,
+T01271,2026-05-28,Torino,Diario,WEB,Salvataggio,risolta,14.0,77.9,5
+T01521,2026-04-25,Milano,Schede,email,Fonte da verificare,risolta,18.6,21.9,2
+T00055,2026-06-11,Bologna,Diario,app,Eliminazione,risolta,13.5,51.9,4
+T01423,2026-07-01,Torino,Diario,app,Grafico,in_lavorazione,43.4,,
+T01237,2026-03-28,Torino,Diario,web,Salvataggio,risolta,10.5,81.3,3
+T00255,2026-02-23,Torino,Chat IA,app,Risposta non disponibile,risolta,8.3,88.8,5
+T00515,2026-01-09,Bologna,Chat IA,app,Limiti IA,risolta,12.0,45.4,
+T00034,2026-03-09,Torino,Chat IA,app,Limiti IA,risolta,7.3,101.1,
+T01279,2026-06-01,Torino,Diario,app,Salvataggio,risolta,10.9,54.7,3
+T01411,2026-08-10,Torino,Chat IA,web,Limiti IA,risolta,11.9,28.2,4
+T01256,2026-02-19,Torino,Diario,email,Grafico,risolta,25.4,63.6,
+T01334,2026-09-13,Milano,Schede,web,Termine da chiarire,risolta,6.4,45.7,4
+T00526,2026-07-06,Milano,Chat IA,app,Limiti IA,risolta,8.0,73.6,
+T01128,2026-08-04,Milano,Schede,web,Navigazione,risolta,5.5,17.2,
+T01205,2026-06-09,Torino,Diario,app,Salvataggio,risolta,11.4,95.9,2
+T00990,2026-08-02,Milano,Diario,web,Salvataggio,aperta,18.3,,
+T00837,2026-09-25,Bologna,Chat IA,app,Come funziona,risolta,18.5,37.0,4
+T01496,2026-08-12,Torino,Account,email,Informazioni privacy,risolta,15.9,78.3,5
+T00754,2026-05-24,Roma,Diario,app,Eliminazione,risolta,18.7,74.7,
+T00656,2026-04-29,Milano,Chat IA,app,Risposta non disponibile,risolta,12.7,95.6,
+T01048,2026-07-25,Milano,Chat IA,web,Limiti IA,risolta,5.5,77.0,
+T00452,2026-01-13,Bologna,Chat IA,app,Limiti IA,risolta,6.3,31.1,
+T00746,2026-04-15,Roma,Supporto umano,web,Link non raggiungibile,in_lavorazione,22.7,,
+T00864,2026-01-24,Bologna,Chat IA,app,Limiti IA,risolta,16.1,100.3,
+T00599,2026-05-09,Torino,Schede,app,Termine da chiarire,risolta,14.7,53.5,
+T00352,2026-07-23,Torino,Diario,app,Grafico,risolta,21.2,82.9,
+T00748,2026-09-08,Torino,Diario,email,Eliminazione,risolta,16.2,95.4,4
+T00657,2026-05-27,Roma,Diario,app,Salvataggio,risolta,11.2,96.9,4
+T00551,2026-08-30,Milano,Diario,web,Eliminazione,risolta,2.7,23.6,2
+T01204,2026-01-03,Roma,Diario,web,Grafico,risolta,4.0,35.6,3
+T01232,2026-03-12,Bologna,Schede,app,Fonte da verificare,risolta,14.5,99.3,5
+T01325,2026-05-05,Bologna,Schede,app,Termine da chiarire,risolta,9.0,21.6,4
+T01265,2026-09-19,Roma,Schede,web,Termine da chiarire,risolta,29.4,60.5,4
+T00671,2026-03-30,Roma,Chat IA,app,Risposta non disponibile,risolta,13.2,67.2,2
+T01084,2026-09-06,Milano,Supporto umano,app,Link non raggiungibile,risolta,23.5,94.1,5
+T00954,2026-08-15,Torino,Supporto umano,email,Informazioni risorse,aperta,12.9,,
+T00029,2026-09-26,Bologna,Supporto umano,email,Informazioni risorse,in_lavorazione,12.6,,
+T01114,2026-02-09,Bologna,Supporto umano,app,Informazioni risorse,in_lavorazione,59.0,,
+T01396,2026-05-27,Roma,Account,app,Informazioni privacy,risolta,8.8,61.9,4
+T00048,2026-05-22,Bologna,Chat IA,app,Risposta non disponibile,risolta,19.7,30.7,
+T00397,2026-02-12,Roma,Chat IA,app,Limiti IA,risolta,11.7,34.3,4
+T01243,2026-03-26,Torino,Chat IA,web,Risposta non disponibile,aperta,25.6,,
+T01250,2026-08-21,Bologna,Chat IA,app,Risposta non disponibile,risolta,9.6,26.9,4
+T00992,2026-09-24,Bologna,Account,app,Informazioni privacy,risolta,23.3,101.5,5
+T01147,2026-07-18,Roma,Chat IA,web,Come funziona,risolta,26.2,67.6,3
+T01457,2026-05-28,Bologna,Diario,app,Grafico,risolta,15.2,67.7,3
+T00130,2026-02-05,Bologna,Chat IA,email,Limiti IA,risolta,5.0,86.9,5
+T00587,2026-08-30,Milano,Chat IA,app,Limiti IA,risolta,13.3,20.5,5
+T01478,2026-04-26,Bologna,Diario,email,Eliminazione,aperta,12.1,,
+T00588,2026-07-26,Milano,Account,web,Informazioni privacy,risolta,11.1,103.1,
+T00825,2026-06-12,Roma,Chat IA,app,Limiti IA,risolta,3.7,90.8,
+T00193,2026-02-20,Roma,Schede,app,Navigazione,risolta,6.9,24.8,4
+T00725,2026-07-15,Roma,Chat IA,web,Limiti IA,risolta,8.8,44.4,3
+T01584,2026-05-09,Torino,Chat IA,web,Come funziona,risolta,32.3,50.6,
+T01298,2026-04-24,Torino,Schede,app,Termine da chiarire,risolta,44.4,122.2,4
+T00162,2026-09-04,Milano,Chat IA,email,Limiti IA,in_lavorazione,44.4,,
+T00747,2026-09-19,Torino,Diario,web,Salvataggio,risolta,3.8,49.8,
+T01504,2026-01-31,Roma,Chat IA,app,Come funziona,risolta,18.7,68.0,4
+T00199,2026-03-23,Roma,Diario,app,Grafico,risolta,4.0,25.9,
+T00881,2026-04-27,Milano,Schede,email,Fonte da verificare,in_lavorazione,17.8,,
+T00537,2026-06-14,Torino,Schede,web,Termine da chiarire,risolta,46.8,77.6,3
+T00212,2026-07-30,Roma,Chat IA,web,Limiti IA,risolta,3.4,62.5,4
+T00809,2026-05-02,Milano,Chat IA,web,Come funziona,risolta,20.4,47.1,
+T01221,2026-05-01,Milano,Diario,web,Salvataggio,risolta,14.5,51.8,2
+T01212,2026-09-22,Bologna,Supporto umano,app,Informazioni risorse,aperta,6.3,,
+T00341,2026-05-28,Roma,Diario,app,Eliminazione,in_lavorazione,8.3,,
+T01331,2026-07-08,Bologna,Diario,app,Salvataggio,risolta,9.9,9999,5
+T00431,2026-01-31,Bologna,Chat IA,app,Risposta non disponibile,risolta,7.6,37.1,5
+T01537,2026-06-07,Milano,Chat IA,app,Come funziona,risolta,32.3,71.6,
+T00762,2026-07-21,Bologna,Account,app,Informazioni privacy,risolta,7.5,27.2,5
+T00204,2026-07-09,Torino,Schede,web,Navigazione,aperta,19.9,,
+T01350,2026-08-28,Bologna,Schede,app,Termine da chiarire,in_lavorazione,10.9,,
+T00135,2026-03-25,Torino,Chat IA,app,Come funziona,aperta,35.0,,
+T00507,2026-01-08,Bologna,Chat IA,email,Come funziona,risolta,47.4,84.8,2
+T01011,2026-08-07,Milano,Supporto umano,app,Link non raggiungibile,aperta,19.8,,
+T01562,2026-02-08,Torino,Schede,web,Navigazione,risolta,2.8,68.4,5
+T00411,2026-04-16,Milano,Schede,email,Termine da chiarire,risolta,5.7,9999,4
+T01516,2026-07-12,Torino,Account,app,Informazioni privacy,risolta,2.3,74.0,4
+T01359,2026-09-02,Bologna,Schede,app,Fonte da verificare,risolta,37.3,91.3,5
+T00517,2026-06-29,Torino,Supporto umano,app,Informazioni risorse,aperta,7.4,,
+T01088,2026-02-03,Roma,Schede,web,Fonte da verificare,risolta,28.5,39.6,5
+T00921,2026-02-02,Torino,Diario,web,Salvataggio,risolta,15.7,34.7,4
+T01013,2026-02-26,Torino,Account,app,Informazioni privacy,in_lavorazione,10.9,,
+T00155,2026-03-08,Torino,Chat IA,app,Limiti IA,risolta,6.8,88.4,
+T00384,2026-08-13,Roma,Schede,app,Termine da chiarire,risolta,12.0,101.5,
+T00169,2026-09-12,Milano,Chat IA,app,Risposta non disponibile,aperta,20.8,,
+T00491,2026-06-14,Bologna,Schede,web,Fonte da verificare,risolta,24.4,28.8,
+T00852,2026-07-09,Torino,Diario,web,Salvataggio,risolta,10.0,22.0,4
+T01292,2026-04-15,Bologna,Chat IA,app,Come funziona,risolta,47.0,129.6,
+T00136,2026-01-22,Roma,Diario,app,Eliminazione,risolta,9.5,81.9,3
+T00899,2026-05-17,Torino,Chat IA,web,Come funziona,risolta,4.5,41.7,4
+T01466,2026-07-09,Torino,Chat IA,app,Come funziona,risolta,40.3,71.1,2
+T01178,2026-02-22,Milano,Account,web,Informazioni privacy,risolta,11.7,35.6,4
+T00071,2026-06-05,Bologna,Supporto umano,web,Link non raggiungibile,risolta,24.5,28.2,
+T00820,2026-06-02,Milano,Account,app,Informazioni privacy,risolta,2.9,97.2,5
+T00388,2026-03-29,Roma,Schede,app,Navigazione,risolta,2.2,51.8,4
+T00686,2026-09-01,Milano,Chat IA,app,Come funziona,risolta,8.0,90.9,
+T00288,2026-06-02,Torino,Chat IA,app,Risposta non disponibile,risolta,16.5,110.9,
+T01103,2026-02-15,Milano,Diario,web,Salvataggio,risolta,3.0,23.2,
+T01393,2026-09-03,Roma,Chat IA,email,Come funziona,risolta,74.3,127.7,
+T01349,2026-06-02,Roma,Supporto umano,web,Informazioni risorse,risolta,19.9,85.1,5
+T00439,2026-09-18,Milano,Account,app,Informazioni privacy,in_lavorazione,2.6,,
+T01408,2026-01-02,Milano,Diario,email,Salvataggio,aperta,23.0,,
+T00898,2026-07-17,Torino,Schede,app,Termine da chiarire,risolta,22.4,62.3,
+T01281,17/09/2026,Milano,Schede,app,Termine da chiarire,risolta,4.1,40.6,
+T00980,2026-07-29,Roma,Chat IA,app,Limiti IA,risolta,23.7,104.6,4
+T00508,2026-02-21,Bologna,Chat IA,email,Risposta non disponibile,risolta,41.0,120.5,4
+T00567,2026-05-05,Milano,Diario,app,Grafico,risolta,29.5,52.5,3
+T01430,2026-07-31,Bologna,Chat IA,app,Limiti IA,risolta,9.3,61.3,4
+T00232,2026-07-12,Bologna,Chat IA,web,Limiti IA,risolta,6.4,88.2,
+T00701,2026-02-22,Torino,Diario,app,Salvataggio,risolta,6.1,10.5,
+T01051,2026-02-20,Bologna,Chat IA,app,Come funziona,risolta,12.9,80.0,5
+T00100,2026-02-28,Roma,Diario,app,Eliminazione,risolta,8.7,83.9,4
+T01459,2026-08-17,Bologna,Diario,web,Grafico,in_lavorazione,7.9,,
+T00920,2026-05-16,Milano,Chat IA,web,Risposta non disponibile,risolta,5.9,82.0,
+T01503,2026-07-08,Bologna,Supporto umano,app,Link non raggiungibile,in_lavorazione,8.5,,
+T00175,2026-04-07,Milano,Schede,app,Termine da chiarire,in_lavorazione,10.2,,
+T01272,2026-07-10,Torino,Diario,email,Salvataggio,risolta,16.5,103.7,
+T00550,2026-09-02,Roma,Chat IA,app,Risposta non disponibile,risolta,9999,83.8,
+T00638,2026-09-23,Torino,Schede,email,Navigazione,risolta,26.3,55.7,4
+T00843,2026-03-12,Milano,Chat IA,app,Risposta non disponibile,in_lavorazione,6.7,,
+T00167,2026-03-13,Milano,Chat IA,email,Risposta non disponibile,risolta,10.3,93.7,
+T00369,2026-03-23,Torino,Chat IA,app,Limiti IA,risolta,11.9,100.1,4
+T01225,2026-09-27,Roma,Chat IA,email,Risposta non disponibile,risolta,6.4,73.2,5
+T01180,2026-01-17,Torino,Chat IA,app,Risposta non disponibile,risolta,9.8,99.6,
+T01456,2026-07-03,Bologna,Supporto umano,app,Link non raggiungibile,risolta,9.5,55.2,3
+T01578,2026-01-14,Bologna,Chat IA,app,Come funziona,risolta,25.4,80.8,
+T00125,2026-02-24,Bologna,Chat IA,app,Limiti IA,risolta,3.2,93.4,5
+T00203,2026-04-29,Roma,Schede,app,Navigazione,risolta,14.0,51.7,5
+T01502,2026-08-09,Bologna,Diario,app,Grafico,aperta,10.2,,
+T01040,2026-07-09,Milano,Chat IA,app,Limiti IA,in_lavorazione,5.3,,
+T00144,2026-01-13,Roma,Diario,app,Grafico,risolta,9.0,63.2,5
+T01216,2026-02-10,Roma,Diario,app,Salvataggio,aperta,6.2,,
+T00391,2026-07-21,Torino,Chat IA,app,Risposta non disponibile,risolta,13.9,81.5,
+T00052,2026-07-22,Torino,Diario,web,Salvataggio,in_lavorazione,9.8,,
+T00122,2026-03-23,Milano,Schede,app,Fonte da verificare,risolta,-3,45.8,4
+T00869,2026-03-22,Torino,Chat IA,app,Risposta non disponibile,risolta,22.9,93.4,
+T00041,2026-06-19,Bologna,Diario,email,Eliminazione,risolta,8.1,65.4,4
+T00065,2026-06-21,Bologna,Diario,app,Grafico,risolta,15.8,49.6,5
+T00410,2026-09-30,Torino,Chat IA,web,Come funziona,risolta,15.6,9999,
+T01347,2026-09-20,Bologna,Schede,app,Navigazione,risolta,15.6,69.8,
+T00381,2026-03-04,Torino,Schede,app,Fonte da verificare,in_lavorazione,6.0,,
+T00997,2026-09-14,Bologna,Diario,web,Grafico,risolta,8.5,44.2,4
+T00510,2026-04-29,Milano,Account,app,Informazioni privacy,risolta,13.0,103.1,4
+T00075,2026-02-04,Bologna,Account,web,Accesso,risolta,5.1,25.3,4
+T00633,2026-01-20,Roma,Diario,app,Eliminazione,risolta,27.4,60.2,4
+T00139,2026-02-18,Bologna,Chat IA,email,Risposta non disponibile,risolta,16.7,23.7,4
+T01066,2026-03-18,Milano,Chat IA,web,Limiti IA,risolta,9999,13.4,3
+T00821,2026-05-16,Milano,Diario,web,Eliminazione,risolta,11.3,94.9,5
+T00571,2026-09-05,Bologna,Chat IA,web,Limiti IA,risolta,20.6,79.2,4
+T00327,2026-04-22,Torino,Chat IA,app,Come funziona,risolta,8.9,59.7,1
+T00497,2026-03-15,Roma,Chat IA,app,Come funziona,risolta,4.1,64.7,4
+T00912,2026-04-09,Bologna,Schede,app,Navigazione,aperta,3.6,,
+T01185,2026-09-17,Milano,Account,app,Informazioni privacy,risolta,10.4,50.7,5
+T00455,2026-05-31,Torino,Account,app,Informazioni privacy,risolta,4.5,48.8,
+T01022,2026-04-21,Milano,Schede,app,Termine da chiarire,risolta,18.5,103.1,4
+T00888,2026-07-21,Roma,Schede,app,Fonte da verificare,in_lavorazione,21.1,,
+T01024,2026-05-11,Torino,Schede,app,Fonte da verificare,risolta,,42.0,
+T01598,2026-07-23,Bologna,Chat IA,email,Risposta non disponibile,risolta,3.6,43.7,4
+T01169,2026-09-29,Torino,Schede,app,Termine da chiarire,risolta,12.8,32.1,
+T00786,2026-06-24,Bologna,Schede,web,Navigazione,risolta,4.1,38.2,5
+T00944,2026-06-25,Milano,Chat IA,email,Risposta non disponibile,in_lavorazione,10.2,,
+T00072,2026-07-23,Bologna,Diario,app,Grafico,risolta,10.2,48.7,3
+T01533,2026-09-19,Roma,Chat IA,app,Risposta non disponibile,risolta,12.3,69.0,
+T00520,2026-01-02,Bologna,Supporto umano,web,Link non raggiungibile,risolta,22.0,33.4,5
+T00241,2026-03-03,Torino,Diario,app,Eliminazione,risolta,47.3,84.5,
+T00013,2026-08-01,Milano,Diario,app,Eliminazione,risolta,4.1,19.4,5
+T01240,2026-04-04,Torino,Schede,email,Fonte da verificare,risolta,19.1,87.6,
+T00945,2026-09-01,Milano,Diario,app,Salvataggio,risolta,12.7,65.0,
+T00292,2026-07-09,Milano,Diario,web,Grafico,risolta,11.9,56.7,1
+T00234,2026-01-07,Bologna,Diario,email,Salvataggio,risolta,30.8,80.8,
+T01513,2026-09-03,Torino,Chat IA,web,Risposta non disponibile,risolta,34.3,45.0,5
+T00298,2026-07-22,Milano,Chat IA,app,Come funziona,aperta,4.4,,
+T01280,2026-06-15,Roma,Diario,web,Eliminazione,in_lavorazione,11.8,,
+T01070,2026-08-29,Bologna,Schede,app,Termine da chiarire,in_lavorazione,35.5,,
+T01009,2026-09-12,Bologna,Chat IA,web,Limiti IA,risolta,9.0,51.3,5
+T01485,2026-08-07,Bologna,Schede,app,Navigazione,risolta,8.9,85.8,5
+T00028,2026-06-30,Milano,Diario,web,Grafico,in_lavorazione,6.8,,
+T00263,2026-04-09,Torino,Schede,web,Termine da chiarire,risolta,5.2,92.1,5
+T00736,2026-02-01,Milano,Account,app,Informazioni privacy,in_lavorazione,44.0,,
+T00528,2026-01-08,Roma,Account,app,Informazioni privacy,risolta,9.2,18.2,4
+T01426,2026-03-02,Bologna,Diario,email,Grafico,risolta,7.2,86.9,
+T00552,2026-09-02,Milano,Diario,email,Eliminazione,risolta,18.2,9999,
+T01429,2026-09-07,Roma,Schede,web,Termine da chiarire,risolta,10.8,58.7,
+T00426,2026-03-07,Torino,Chat IA,app,Limiti IA,risolta,8.8,12.7,5
+T00851,2026-09-29,Bologna,Schede,app,Fonte da verificare,risolta,20.8,58.5,2
+T00774,2026-09-12,Roma,Account,app,Accesso,risolta,3.5,84.3,
+T01406,2026-02-13,Roma,Schede,web,Navigazione,risolta,13.4,101.5,
+T00617,2026-03-17,Torino,Diario,app,Eliminazione,risolta,8.6,73.8,4
+T00435,2026-06-11,Roma,Schede,web,Fonte da verificare,risolta,9.9,41.7,2
+T00424,2026-05-05,Roma,Schede,app,Fonte da verificare,in_lavorazione,75.3,,
+T01312,2026-06-25,Torino,Chat IA,app,Limiti IA,risolta,16.3,20.0,5
+T00546,2026-03-28,Milano,Diario,app,Eliminazione,risolta,,32.8,4
+T00860,2026-06-09,Bologna,Diario,email,Eliminazione,risolta,4.5,80.7,
+T00254,2026-05-13,Torino,Schede,email,Termine da chiarire,risolta,11.0,105.0,4
+T01230,2026-03-13,Torino,Schede,app,Termine da chiarire,in_lavorazione,16.7,,
+T00189,2026-07-16,Roma,Chat IA,app,Limiti IA,risolta,14.0,89.4,5
+T00470,2026-07-12,Torino,Chat IA,email,Come funziona,risolta,5.8,31.7,4
+T01588,2026-02-07,Milano,Account,app,Informazioni privacy,risolta,13.2,60.2,4
+T00875,2026-07-27,Bologna,Diario,email,Salvataggio,in_lavorazione,-3,,
+T01211,2026-03-08,Milano,Chat IA,email,Come funziona,risolta,10.3,70.4,
+T01025,2026-04-21,Roma,Schede,web,Navigazione,risolta,27.8,111.4,4
+T00350,2026-01-18,Bologna,Chat IA,email,Limiti IA,risolta,8.3,85.7,3
+T01318,2026-04-10,Milano,Diario,email,Salvataggio,risolta,42.7,88.4,
+T00845,2026-09-03,Bologna,Account,web,Accesso,risolta,11.9,33.8,
+T00152,2026-02-25,Bologna,Chat IA,app,Risposta non disponibile,risolta,38.9,72.8,4
+T00019,2026-02-16,Bologna,Schede,web,Termine da chiarire,risolta,6.4,51.4,5
+T00893,2026-02-14,Roma,Chat IA,web,Limiti IA,risolta,7.1,74.8,2
+T00709,2026-09-04,Bologna,Chat IA,app,Limiti IA,risolta,14.9,102.4,
+T01579,2026-03-19,Torino,Diario,web,Eliminazione,risolta,14.3,75.1,
+T00628,2026-05-05,Torino,Schede,app,Navigazione,risolta,31.9,75.7,5
+T00249,2026-05-07,Torino,Diario,email,Grafico,risolta,14.3,58.6,5
+T01125,2026-07-10,Bologna,Schede,app,Fonte da verificare,in_lavorazione,6.1,,
+T00697,2026-01-03,Bologna,Chat IA,email,Limiti IA,aperta,6.8,,
+T00008,2026-03-30,Milano,Chat IA,web,Limiti IA,risolta,12.4,23.7,4
+T00112,2026-09-12,Milano,Diario,app,Salvataggio,risolta,-3,19.2,2
+T00702,2026-03-07,Roma,Chat IA,app,Risposta non disponibile,risolta,10.4,54.3,
+T01229,2026-02-19,Roma,Diario,web,Eliminazione,risolta,13.8,57.1,4
+T01555,2026-02-25,Torino,Schede,web,Navigazione,risolta,7.0,50.9,5
+T01117,2026-03-23,Torino,Chat IA,app,Come funziona,aperta,28.9,,
+T00842,2026-02-19,Bologna,Chat IA,web,Come funziona,risolta,14.2,70.8,4
+T00866,2026-02-08,Milano,Supporto umano,web,Informazioni risorse,risolta,64.5,94.5,5
+T00525,2026-07-27,Bologna,Schede,app,Termine da chiarire,risolta,7.3,27.7,5
+T01193,2026-01-06,Roma,Supporto umano,web,Informazioni risorse,risolta,23.7,26.2,
+T00971,2026-07-11,Milano,Diario,app,Grafico,in_lavorazione,7.2,,
+T00054,2026-03-25,Milano,Diario,app,Salvataggio,risolta,2.8,8.7,4
+T00131,2026-09-05,Bologna,Chat IA,email,Limiti IA,risolta,5.4,11.3,2
+T00592,2026-02-18,Milano,Schede,app,Termine da chiarire,risolta,16.6,89.8,
+T01120,2026-09-10,Roma,Diario,web,Grafico,risolta,36.2,75.1,4
+T01565,2026-08-28,Roma,Diario,app,Salvataggio,risolta,-3,59.9,3
+T00891,2026-02-19,Milano,Schede,app,Termine da chiarire,in_lavorazione,5.2,,
+T01358,2026-03-03,Bologna,Chat IA,app,Risposta non disponibile,risolta,4.9,94.1,
+T00981,2026-03-19,Bologna,Supporto umano,app,Informazioni risorse,risolta,19.8,54.5,1
+T00376,2026-06-22,Milano,Account,app,Accesso,risolta,13.3,105.9,4
+T01143,2026-04-28,Torino,Schede,web,Fonte da verificare,risolta,12.0,42.7,5
+T01569,2026-07-25,Roma,Schede,app,Navigazione,risolta,6.9,93.2,5
+T01093,2026-05-20,Torino,Schede,web,Termine da chiarire,risolta,24.8,41.4,4
+T00225,2026-05-01,Bologna,Diario,app,Grafico,risolta,9.9,32.0,
+T00727,2026-08-10,Bologna,Schede,app,Fonte da verificare,risolta,8.3,34.7,4
+T01464,2026-09-12,Milano,Diario,web,Eliminazione,in_lavorazione,20.6,,
+T01263,2026-08-28,Milano,Chat IA,app,Limiti IA,risolta,14.0,48.9,
+T01294,2026-07-07,Roma,Chat IA,app,Limiti IA,risolta,21.3,35.7,
+T00631,2026-01-21,Torino,Chat IA,email,Come funziona,risolta,13.0,16.9,5
+T00816,2026-06-02,Milano,Chat IA,app,Limiti IA,risolta,18.8,40.0,
+T01239,2026-06-06,Torino,Diario,email,Salvataggio,risolta,6.4,90.2,
+T00810,2026-05-31,Milano,Schede,web,Fonte da verificare,risolta,8.7,81.2,
+T00493,2026-05-29,Milano,Chat IA,web,Limiti IA,risolta,6.7,64.1,4
+T01361,2026-02-08,Milano,Account,app,Informazioni privacy,risolta,12.1,20.0,
+T00902,2026-07-16,Torino,Diario,web,Salvataggio,risolta,14.3,81.0,
+T00597,2026-09-24,Milano,Chat IA,web,Come funziona,risolta,9.6,63.1,4
+T00408,2026-05-31,Milano,Supporto umano,app,Informazioni risorse,risolta,12.6,54.1,
+T01077,2026-06-08,Roma,Diario,email,Eliminazione,risolta,12.8,64.5,4
+T01085,2026-03-30,Torino,Chat IA,web,Come funziona,risolta,47.8,141.5,4
+T01083,2026-01-10,Roma,Chat IA,email,Risposta non disponibile,risolta,7.0,87.7,2
+T01596,2026-06-23,Torino,Schede,email,Fonte da verificare,risolta,3.9,48.5,5
+T01160,2026-04-30,Bologna,Account,app,Informazioni privacy,risolta,27.6,42.8,5
+T00548,2026-09-06,Milano,Supporto umano,app,Informazioni risorse,risolta,-3,9999,
+T00393,2026-01-18,Roma,Chat IA,app,Risposta non disponibile,risolta,15.8,105.0,4
+T00040,2026-05-09,Bologna,Schede,web,Navigazione,risolta,24.7,113.6,
+T00370,2026-06-17,Bologna,Diario,app,Salvataggio,risolta,8.0,38.9,5
+T01278,2026-02-23,Milano,Diario,app,Grafico,aperta,12.7,,
+T01340,2026-09-24,Bologna,Account,app,Accesso,risolta,20.4,97.9,4
+T00541,2026-04-22,Torino,Account,app,Accesso,risolta,18.0,50.0,4
+T00544,2026-02-02,Milano,Chat IA,email,Come funziona,risolta,17.8,71.9,
+T00554,2026-07-02,Roma,Diario,web,Salvataggio,risolta,3.0,91.5,5
+T00982,2026-04-29,Bologna,Chat IA,email,Limiti IA,risolta,5.8,64.4,5
+T00462,2026-01-08,Torino,Supporto umano,email,Link non raggiungibile,risolta,10.7,27.1,
+T01425,2026-06-23,Bologna,Supporto umano,app,Link non raggiungibile,risolta,16.7,61.1,
+T00663,2026-03-01,Torino,Schede,email,Navigazione,risolta,16.7,21.0,
+T00819,2026-03-18,Milano,Account,email,Accesso,risolta,5.0,20.3,
+T01432,2026-02-25,Milano,Diario,app,Eliminazione,in_lavorazione,26.1,,
+T00474,2026-07-31,Roma,Schede,web,Termine da chiarire,risolta,-3,30.9,3
+T00604,2026-03-30,Torino,Schede,app,Navigazione,risolta,16.8,70.4,
+T01260,2026-01-14,Milano,Diario,web,Salvataggio,in_lavorazione,4.5,,
+T00151,2026-03-26,Milano,Diario,email,Grafico,risolta,17.9,42.3,5
+T00026,2026-05-07,Milano,Schede,web,Fonte da verificare,risolta,5.8,10.9,4
+T00704,2026-02-06,Bologna,Schede,web,Termine da chiarire,aperta,-3,,
+T00753,2026-09-24,Bologna,Supporto umano,app,Informazioni risorse,risolta,13.9,87.8,1
+T00577,2026-09-22,Roma,Diario,app,Grafico,risolta,15.9,9999,3
+T00101,2026-03-06,Roma,Chat IA,email,Come funziona,aperta,2.1,,
+T01458,2026-06-10,Milano,Supporto umano,web,Informazioni risorse,risolta,65.5,113.6,4
+T00685,2026-05-21,Torino,Account,web,Accesso,risolta,25.9,84.1,5
+T00629,2026-07-25,Milano,Diario,app,Eliminazione,in_lavorazione,8.4,,
+T00772,2026-08-29,Torino,Chat IA,app,Limiti IA,risolta,15.5,77.6,2
+T01135,2026-09-14,Milano,Diario,web,Grafico,in_lavorazione,32.6,,
+T00710,2026-06-14,Roma,Supporto umano,app,Informazioni risorse,in_lavorazione,,,
+T00572,2026-05-13,Bologna,Chat IA,app,Risposta non disponibile,risolta,31.4,100.6,5
+T00284,2026-02-10,Roma,Diario,app,Salvataggio,risolta,9.5,58.3,4
+T00025,2026-07-20,Bologna,Diario,app,Grafico,risolta,7.9,93.4,3
+T00797,2026-01-18,Roma,Diario,email,Salvataggio,risolta,27.5,113.0,
+T00333,2026-07-19,Bologna,Chat IA,app,Come funziona,risolta,64.9,99.6,5
+T00467,2026-05-08,Milano,Schede,app,Fonte da verificare,risolta,11.4,62.1,5
+T00832,2026-04-27,Roma,Chat IA,app,Limiti IA,in_lavorazione,23.8,,
+T01540,2026-06-07,Roma,Chat IA,email,Come funziona,in_lavorazione,2.9,,
+T00258,2026-05-24,Roma,Chat IA,app,Risposta non disponibile,risolta,29.8,39.4,5
+T01595,2026-07-18,Roma,Chat IA,web,Come funziona,risolta,19.9,60.3,3
+T00227,2026-06-29,Torino,Schede,web,Termine da chiarire,risolta,12.2,82.5,4
+T00928,2026-02-21,Bologna,Chat IA,app,Risposta non disponibile,risolta,11.7,87.4,3
+T00621,2026-07-31,Torino,Schede,app,Navigazione,risolta,13.8,27.4,5
+T00291,2026-03-04,Milano,Diario,app,Eliminazione,risolta,19.5,26.4,
+T01269,2026-03-31,Bologna,Diario,web,Grafico,in_lavorazione,22.7,,
+T00329,2026-01-14,Bologna,Supporto umano,web,Link non raggiungibile,risolta,10.6,41.6,4
+T00243,2026-02-03,Torino,Diario,app,Grafico,risolta,4.5,33.6,5
+T00680,2026-04-23,Roma,Supporto umano,app,Link non raggiungibile,risolta,21.8,115.0,
+T00594,2026-02-10,Bologna,Supporto umano,app,Informazioni risorse,risolta,7.5,63.3,
+T01285,2026-04-30,Bologna,Chat IA,email,Limiti IA,risolta,7.3,35.7,5
+T00830,2026-09-25,Roma,Diario,email,Eliminazione,risolta,10.1,35.5,2
+T00521,2026-08-29,Roma,Account,app,Accesso,risolta,31.5,42.4,2
+T01454,2026-04-12,Roma,Diario,email,Grafico,risolta,,69.3,5
+T01321,2026-06-07,Roma,Chat IA,web,Come funziona,risolta,24.5,54.3,3
+T01590,2026-07-22,Bologna,Diario,app,Salvataggio,risolta,10.4,52.2,
+T00812,2026-08-18,Roma,Chat IA,web,Risposta non disponibile,risolta,20.2,84.3,
+T01441,2026-02-09,Roma,Supporto umano,web,Informazioni risorse,in_lavorazione,4.6,,
+T00295,2026-04-27,Roma,Schede,email,Navigazione,risolta,15.0,78.8,5
+T00511,2026-09-15,Torino,Schede,app,Fonte da verificare,risolta,6.2,99.4,4
+T01245,2026-04-28,Bologna,Schede,web,Navigazione,risolta,10.4,63.8,4
+T01330,2026-02-11,Roma,Schede,web,Navigazione,risolta,24.3,94.6,5
+T00103,2026-02-14,Roma,Diario,EMAIL,Grafico,in_lavorazione,20.0,,
+T00950,2026-06-12,Torino,Supporto umano,app,Link non raggiungibile,in_lavorazione,13.1,,
+T01560,2026-08-18,Roma,Account,web,Accesso,risolta,18.3,35.9,3
+T01477,2026-05-19,Torino,Diario,email,Salvataggio,risolta,13.7,23.1,5
+T00498,2026-05-17,Bologna,Chat IA,app,Risposta non disponibile,risolta,20.1,57.0,
+T00995,2026-02-10,Bologna,Chat IA,web,Come funziona,risolta,46.9,119.3,5
+T00527,2026-07-08,Roma,Chat IA,email,Risposta non disponibile,in_lavorazione,6.7,,
+T01438,2026-04-24,Milano,Chat IA,web,Limiti IA,aperta,8.4,,
+T01586,2026-01-19,Roma,Chat IA,app,Come funziona,risolta,30.0,63.4,4
+T01258,2026-07-13,Roma,Diario,web,Grafico,in_lavorazione,3.1,,
+T01531,2026-08-05,Torino,Chat IA,email,Limiti IA,risolta,74.2,166.7,
+T01124,2026-08-06,Roma,Diario,app,Salvataggio,risolta,3.2,36.7,3
+T00211,2026-04-30,Milano,Schede,email,Navigazione,risolta,26.5,76.9,4
+T00722,2026-09-15,Milano,Diario,app,Eliminazione,risolta,15.2,63.2,4
+T01351,2026-07-02,Bologna,Account,web,Accesso,in_lavorazione,12.4,,
+T00984,2026-07-28,Milano,Chat IA,email,Come funziona,risolta,10.4,36.1,4
+T00005,2026-06-09,Milano,Supporto umano,web,Link non raggiungibile,risolta,56.0,98.0,5
+T00530,2026-09-26,Milano,Supporto umano,app,Informazioni risorse,in_lavorazione,25.8,,
+T01244,2026-07-14,Milano,Chat IA,app,Risposta non disponibile,risolta,6.5,89.3,5
+T00759,2026-08-29,Torino,Diario,app,Grafico,risolta,18.2,61.8,4
+T00814,2026-07-25,Torino,Chat IA,email,Limiti IA,risolta,22.1,98.1,3
+T00718,2026-08-11,Roma,Chat IA,web,Risposta non disponibile,risolta,8.6,52.1,
+T00471,2026-06-11,Roma,Chat IA,app,Come funziona,risolta,30.6,66.9,3
+T01399,2026-02-09,Milano,Schede,app,Navigazione,risolta,6.6,59.1,
+T01394,2026-06-18,Torino,Schede,app,Navigazione,risolta,,61.0,4
+T01181,2026-09-22,Milano,Schede,app,Termine da chiarire,risolta,8.9,35.3,4
+T01407,2026-04-29,Torino,Chat IA,web,Limiti IA,risolta,13.1,21.7,4
+T00038,2026-09-05,Bologna,Chat IA,email,Risposta non disponibile,aperta,6.2,,
+T00698,2026-09-12,Roma,Account,web,Informazioni privacy,risolta,4.4,58.8,4
+T01002,2026-05-11,Roma,Diario,web,Salvataggio,risolta,29.9,82.6,
+T01134,2026-07-04,Roma,Chat IA,web,Risposta non disponibile,risolta,28.2,119.3,5
+T00177,2026-09-08,Bologna,Supporto umano,app,Link non raggiungibile,risolta,15.3,109.5,
+T00141,2026-02-11,Bologna,Diario,app,Salvataggio,risolta,1.9,65.0,2
+T01148,2026-03-25,Torino,Account,email,Informazioni privacy,risolta,33.1,52.1,2
+T00058,13/06/2026,Bologna,Supporto umano,email,Informazioni risorse,risolta,9.0,87.4,
+T00094,2026-09-05,Bologna,Diario,email,Grafico,risolta,18.1,102.1,
+T00096,2026-04-30,Roma,Account,app,Informazioni privacy,risolta,4.4,44.8,4
+T00437,2026-01-03,Torino,Schede,app,Termine da chiarire,risolta,4.0,95.1,
+T00378,2026-09-17,Torino,Chat IA,app,Limiti IA,risolta,8.2,88.7,3
+T00456,2026-09-12,Torino,Diario,email,Eliminazione,risolta,26.0,42.5,
+T00250,2026-04-18,Milano,Diario,WEB,Grafico,risolta,4.1,97.4,4
+T01479,2026-05-15,Milano,Supporto umano,email,Link non raggiungibile,risolta,11.3,84.5,1
+T01568,2026-05-26,Roma,Chat IA,web,Come funziona,risolta,16.9,37.6,
+T01369,2026-04-26,Torino,Chat IA,app,Come funziona,risolta,8.9,18.8,1
+T00763,2026-04-10,Torino,Schede,app,Termine da chiarire,risolta,34.5,39.5,5
+T01324,2026-02-05,Torino,Chat IA,app,Limiti IA,risolta,11.5,28.6,4
+T00290,2026-04-23,Bologna,Chat IA,app,Limiti IA,risolta,9.9,73.0,4
+T00294,2026-07-25,Torino,Schede,app,Termine da chiarire,risolta,9.5,103.2,4
+T01404,2026-03-18,Bologna,Diario,web,Grafico,risolta,9.4,91.6,
+T00199,2026-03-23,Roma,Diario,app,Grafico,risolta,4.0,25.9,
+T00051,2026-08-30,Milano,Chat IA,app,Come funziona,risolta,5.3,68.3,3
+T00163,2026-09-28,Milano,Schede,app,Navigazione,risolta,18.0,20.2,
+T01414,2026-07-27,Torino,Account,email,Informazioni privacy,in_lavorazione,,,
+T00492,2026-08-21,Milano,Diario,email,Salvataggio,risolta,9.6,49.0,5
+T01039,2026-07-26,Torino,Account,app,Accesso,risolta,24.4,77.9,3
+T01481,2026-07-15,Torino,Chat IA,email,Risposta non disponibile,risolta,38.5,97.8,2
+T00873,2026-08-16,Milano,Schede,app,Fonte da verificare,risolta,17.3,53.2,5
+T00871,2026-04-05,Torino,Account,email,Informazioni privacy,risolta,21.9,73.7,
+T00975,2026-06-18,Torino,Diario,web,Salvataggio,risolta,-3,78.3,
+T00148,2026-02-02,Bologna,Supporto umano,app,Link non raggiungibile,in_lavorazione,7.3,,
+T00985,2026-01-10,Torino,Account,web,Informazioni privacy,risolta,31.4,97.8,4
+T01235,2026-09-09,Torino,Chat IA,app,Come funziona,risolta,36.1,57.2,2
+T01357,2026-04-24,Torino,Schede,email,Termine da chiarire,in_lavorazione,2.2,,
+T00516,2026-02-17,Roma,Schede,web,Fonte da verificare,risolta,3.4,22.8,4
+T00673,2026-06-13,Roma,Supporto umano,app,Informazioni risorse,risolta,58.9,101.3,5
+T00674,2026-04-20,Roma,Chat IA,app,Risposta non disponibile,risolta,6.0,69.1,4
+T01427,2026-06-20,Torino,Diario,app,Eliminazione,risolta,7.3,32.5,
+T00317,2026-07-09,Milano,Account,email,Informazioni privacy,risolta,7.1,53.1,
+T01346,2026-09-19,Milano,Schede,app,Fonte da verificare,risolta,12.3,75.3,4
+T00415,2026-04-13,Milano,Schede,app,Navigazione,risolta,13.3,82.6,2
+T00562,2026-01-06,Roma,Chat IA,web,Come funziona,aperta,25.5,,
+T01115,2026-05-12,Roma,Chat IA,web,Come funziona,risolta,13.1,21.1,
+T00360,2026-07-28,Milano,Diario,web,Eliminazione,in_lavorazione,3.7,,
+T00198,2026-08-25,Milano,Diario,email,Grafico,risolta,4.9,41.1,5
+T00625,2026-01-21,Torino,Supporto umano,email,Informazioni risorse,risolta,3.0,14.9,2
+T01417,2026-09-08,Milano,Diario,web,Grafico,risolta,2.9,73.1,3
+T00658,06/07/2026,Milano,Account,email,Accesso,risolta,25.6,86.3,3
+T00113,2026-08-17,Roma,Chat IA,email,Limiti IA,risolta,9.9,44.1,5
+T00960,2026-03-07,Bologna,Diario,web,Grafico,risolta,7.4,12.1,
+T01006,2026-07-24,Milano,Schede,app,Fonte da verificare,risolta,14.0,55.8,4
+T00073,2026-04-26,Bologna,Schede,app,Termine da chiarire,risolta,12.6,30.9,4
+T01001,2026-02-27,Torino,Chat IA,app,Come funziona,risolta,29.9,106.7,3
+T00499,2026-07-21,Bologna,Chat IA,web,Risposta non disponibile,risolta,19.3,42.3,
+T01463,2026-02-04,Milano,Schede,app,Termine da chiarire,risolta,27.1,95.1,2
+T01455,2026-05-19,Bologna,Chat IA,app,Come funziona,aperta,3.3,,
+T01071,2026-01-05,Torino,Chat IA,app,Risposta non disponibile,aperta,27.1,,
+T00601,2026-06-16,Torino,Schede,app,Navigazione,risolta,35.5,102.4,5
+T00596,2026-06-13,Milano,Diario,web,Eliminazione,risolta,-3,51.8,5
+T00347,2026-03-15,Torino,Diario,app,Eliminazione,risolta,10.2,64.0,5
+T01372,2026-02-17,Bologna,Supporto umano,email,Informazioni risorse,risolta,20.3,26.4,
+T00502,2026-04-19,Bologna,Chat IA,web,Come funziona,risolta,5.6,11.9,
+T01473,2026-04-11,Torino,Account,app,Accesso,risolta,14.4,56.3,2
+T01288,2026-07-11,Milano,Chat IA,email,Limiti IA,in_lavorazione,46.7,,
+T00581,2026-01-24,Milano,Chat IA,app,Come funziona,risolta,11.0,16.8,5
+T00911,2026-06-29,Bologna,Chat IA,app,Come funziona,risolta,3.1,9.1,5
+T01035,2026-08-15,Torino,Chat IA,app,Risposta non disponibile,risolta,12.7,28.9,
+T00021,2026-03-23,Torino,Schede,app,Navigazione,risolta,16.5,36.7,4
+T00095,2026-06-14,Roma,Chat IA,app,Come funziona,risolta,17.2,31.1,5
+T00020,2026-05-06,Torino,Chat IA,email,Risposta non disponibile,risolta,4.5,47.9,3
+T00396,2026-05-28,Torino,Supporto umano,web,Link non raggiungibile,risolta,7.4,91.6,4
+T00260,2026-09-08,Bologna,Account,web,Informazioni privacy,risolta,9.8,35.3,5
+T00266,2026-09-28,Roma,Diario,WEB,Salvataggio,risolta,13.2,58.9,
+T00200,2026-01-31,Bologna,Account,app,Accesso,risolta,16.0,104.4,
+T00159,2026-07-07,Torino,Chat IA,app,Risposta non disponibile,risolta,12.3,20.1,
+T00583,2026-04-08,Bologna,Schede,app,Termine da chiarire,risolta,7.4,100.2,
+T00559,2026-09-30,Bologna,Diario,email,Grafico,risolta,10.4,68.0,3
+T00927,2026-06-10,Bologna,Schede,app,Termine da chiarire,risolta,7.5,57.1,4
+T00744,2026-06-10,Roma,Diario,email,Grafico,risolta,15.3,43.2,3
+T01175,2026-03-29,Milano,Diario,email,Grafico,risolta,8.1,59.7,4
+T00885,2026-04-13,Milano,Diario,app,Salvataggio,risolta,9.9,50.2,
+T00862,2026-08-25,Bologna,Chat IA,app,Come funziona,risolta,3.6,57.4,3
+T00302,2026-07-29,Bologna,Chat IA,app,Risposta non disponibile,aperta,44.3,,
+T00106,2026-08-11,Roma,Diario,app,Eliminazione,in_lavorazione,18.0,,
+T01252,2026-02-21,Milano,Chat IA,web,Come funziona,risolta,9999,96.4,5
+T00972,2026-05-29,Milano,Schede,web,Navigazione,risolta,7.8,44.6,
+T00449,2026-07-23,Roma,Chat IA,app,Limiti IA,risolta,5.5,78.2,
+T00208,2026-02-05,Milano,Account,app,Informazioni privacy,risolta,15.1,27.1,
+T00949,2026-06-06,Torino,Chat IA,app,Come funziona,in_lavorazione,12.9,,
+T00085,2026-07-29,Bologna,Schede,email,Termine da chiarire,in_lavorazione,5.2,,
+T00974,2026-04-27,Milano,Chat IA,web,Come funziona,aperta,34.8,,
+T00345,2026-05-16,Roma,Diario,web,Eliminazione,risolta,10.4,18.2,5
+T01192,2026-07-21,Torino,Schede,app,Navigazione,risolta,13.9,40.5,4
+T00737,2026-04-02,Bologna,Schede,app,Fonte da verificare,risolta,6.5,96.0,3
+T00066,2026-09-12,Milano,Account,app,Informazioni privacy,risolta,12.1,20.8,
+T00387,2026-06-18,Bologna,Schede,web,Fonte da verificare,risolta,13.4,79.4,4
+T01563,2026-01-03,Roma,Schede,app,Termine da chiarire,risolta,15.4,110.1,4
+T00925,2026-06-21,Roma,Supporto umano,web,Link non raggiungibile,risolta,6.0,98.7,
+T01397,2026-04-12,Bologna,Schede,email,Fonte da verificare,risolta,6.2,77.4,5
+T00969,2026-08-03,Milano,Schede,app,Termine da chiarire,risolta,38.8,69.2,4
+T01524,2026-07-11,Milano,Diario,email,Salvataggio,aperta,11.3,,
+T01198,2026-01-19,Roma,Account,APP,Accesso,in_lavorazione,5.5,,
+T00781,2026-07-08,Torino,Supporto umano,web,Informazioni risorse,risolta,13.8,9999,4
+T00060,2026-07-07,Bologna,Supporto umano,web,Informazioni risorse,risolta,10.7,39.5,
+T01591,31/02/2026,Roma,Diario,web,Salvataggio,risolta,9.2,102.2,
+T00117,2026-02-07,Torino,Diario,email,Eliminazione,risolta,19.1,62.2,2
+T00726,2026-09-30,Torino,Chat IA,app,Risposta non disponibile,risolta,7.2,9.9,5
+T00438,2026-09-25,Milano,Chat IA,app,Risposta non disponibile,aperta,15.8,,
+T01220,2026-09-04,Torino,Diario,app,Grafico,risolta,9.4,90.4,3
+T00027,2026-05-05,Torino,Account,app,Informazioni privacy,risolta,6.2,87.5,3
+T01102,2026-04-09,Roma,Supporto umano,web,Informazioni risorse,risolta,7.5,42.4,5
+T01494,2026-06-16,Torino,Diario,web,Salvataggio,aperta,1.3,,
+T01004,2026-07-07,Milano,Supporto umano,web,Informazioni risorse,risolta,4.4,81.2,
+T01301,2026-08-15,Torino,Diario,app,Grafico,in_lavorazione,18.6,,
+T00209,2026-06-06,Milano,Diario,app,Salvataggio,in_lavorazione,5.7,,
+T00766,2026-06-23,Milano,Chat IA,email,Come funziona,risolta,24.7,70.0,3
+T00555,2026-08-24,Torino,Diario,web,Grafico,in_lavorazione,27.8,,
+T00514,2026-02-09,Milano,Diario,app,Eliminazione,risolta,13.1,69.2,4
+T00383,31/02/2026,Milano,Diario,web,Grafico,risolta,125.4,132.6,
+T00278,2026-02-22,Roma,Diario,web,Salvataggio,aperta,35.4,,
+T00531,2026-08-18,Milano,Supporto umano,web,Informazioni risorse,risolta,57.4,107.0,4
+T01381,31/02/2026,Milano,Chat IA,web,Come funziona,risolta,34.7,114.7,
+T00349,2026-02-25,Torino,Diario,app,Eliminazione,in_lavorazione,6.8,,
+T00598,2026-01-03,Torino,Schede,app,Navigazione,risolta,25.1,28.0,
+T01219,2026-01-03,Bologna,Chat IA,web,Limiti IA,risolta,15.9,27.0,
+T00053,2026-05-26,Roma,Chat IA,app,Come funziona,risolta,9.7,50.0,3
+T01023,2026-05-29,Torino,Diario,app,Grafico,risolta,19.3,82.5,
+T00953,2026-05-30,Milano,Chat IA,app,Come funziona,risolta,7.7,77.5,5
+T00640,2026-09-07,Milano,Chat IA,web,Risposta non disponibile,risolta,36.4,99.6,4
+T00504,2026-08-18,Milano,Chat IA,app,Limiti IA,risolta,15.1,105.5,3
+T01585,2026-08-08,Milano,Chat IA,web,Limiti IA,risolta,11.1,34.7,3
+T00650,2026-01-10,Milano,Chat IA,app,Limiti IA,risolta,,91.7,2
+T00398,2026-04-04,Roma,Schede,app,Termine da chiarire,in_lavorazione,13.2,,
+T01561,2026-07-21,Roma,Diario,app,Salvataggio,risolta,6.2,62.1,4
+T00518,2026-04-02,Milano,Chat IA,app,Come funziona,risolta,18.9,106.6,5
+T01296,2026-01-25,Milano,Chat IA,app,Come funziona,risolta,3.5,21.4,5
+T01450,2026-06-29,Torino,Schede,app,Termine da chiarire,risolta,8.4,70.7,5
+T01122,2026-09-24,Bologna,Chat IA,email,Come funziona,risolta,4.6,57.4,2
+T00247,2026-09-10,Milano,Chat IA,app,Come funziona,risolta,23.8,118.0,
+T00574,2026-09-01,Milano,Diario,app,Grafico,aperta,34.1,,
+T01173,2026-04-21,Torino,Diario,app,Eliminazione,risolta,17.2,100.6,5
+T01107,2026-09-14,Bologna,Chat IA,app,Come funziona,in_lavorazione,5.3,,
+T00720,2026-06-24,Roma,Diario,web,Eliminazione,risolta,5.5,9.3,
+T01556,31/02/2026,Milano,Account,web,Informazioni privacy,risolta,8.8,86.2,4
+T00764,2026-08-11,Bologna,Chat IA,app,Limiti IA,risolta,28.6,122.6,4
+T00813,2026-09-29,Torino,Diario,app,Salvataggio,aperta,15.5,,
+T00858,2026-09-18,Roma,Chat IA,app,Risposta non disponibile,risolta,6.0,43.2,3
+T01081,2026-07-31,Roma,Chat IA,app,Limiti IA,risolta,8.8,44.0,
+T00495,2026-06-14,Milano,Chat IA,web,Risposta non disponibile,risolta,23.6,72.4,3
+T00667,2026-09-01,Roma,Diario,app,Eliminazione,risolta,5.9,72.5,4
+T01567,2026-07-05,Bologna,Diario,app,Salvataggio,in_lavorazione,8.7,,
+T00379,2026-05-12,Torino,Diario,app,Eliminazione,risolta,13.4,45.5,5
+T00064,2026-04-25,Milano,Schede,email,Fonte da verificare,risolta,3.4,98.1,5
+T00081,2026-03-14,Bologna,Chat IA,app,Limiti IA,in_lavorazione,30.0,,
+T00315,2026-05-10,Milano,Chat IA,email,Come funziona,risolta,13.0,76.6,4
+T00519,2026-04-27,Torino,Supporto umano,web,Informazioni risorse,risolta,7.5,52.9,1
+T00277,31/02/2026,Torino,Chat IA,app,Limiti IA,risolta,13.2,56.3,
+T00392,2026-03-25,Milano,Chat IA,email,Limiti IA,risolta,25.6,51.2,
+T00879,2026-02-21,Milano,Diario,web,Salvataggio,risolta,16.7,45.2,
+T00773,2026-07-23,Torino,Supporto umano,web,Link non raggiungibile,risolta,14.9,46.3,4
+T01342,2026-02-07,Torino,Chat IA,email,Limiti IA,risolta,42.0,53.7,4
+T01238,2026-07-06,Torino,Schede,web,Termine da chiarire,risolta,8.6,82.7,
+T00919,2026-02-04,Torino,Chat IA,email,Come funziona,in_lavorazione,14.3,,
+T00099,2026-01-24,Torino,Schede,app,Fonte da verificare,risolta,6.8,77.9,4
+T01202,2026-01-16,Bologna,Chat IA,app,Come funziona,in_lavorazione,12.2,,
+T00958,2026-04-23,Roma,Diario,app,Salvataggio,aperta,33.7,,
+T00120,2026-01-18,Bologna,Schede,web,Navigazione,risolta,-3,20.6,5
+T00337,2026-09-30,Bologna,Chat IA,app,Limiti IA,risolta,23.6,73.9,
+T00878,2026-02-07,Bologna,Diario,app,Salvataggio,risolta,8.6,74.3,
+T01491,2026-02-23,Roma,Diario,web,Eliminazione,risolta,14.2,21.6,4
+T01368,2026-06-10,Bologna,Supporto umano,web,Link non raggiungibile,risolta,21.9,79.6,4
+T01015,2026-05-17,Torino,Diario,app,Grafico,risolta,8.1,28.6,4
+T00080,2026-02-09,Roma,Diario,app,Eliminazione,in_lavorazione,2.8,,
+T01146,2026-03-04,Roma,Schede,web,Navigazione,aperta,16.3,,
+T00808,2026-06-26,Torino,Chat IA,email,Risposta non disponibile,risolta,5.6,59.9,5
+T01106,2026-06-09,Roma,Account,app,Accesso,in_lavorazione,17.4,,
+T01116,2026-04-12,Roma,Chat IA,app,Come funziona,risolta,30.5,91.5,
+T01495,2026-01-23,Bologna,Chat IA,app,Come funziona,risolta,7.5,74.7,4
+T00319,2026-08-08,Milano,Diario,app,Salvataggio,risolta,55.1,122.9,
+T00134,2026-07-21,Bologna,Diario,web,Salvataggio,risolta,5.0,10.3,4
+T00394,2026-02-10,Roma,Chat IA,app,Risposta non disponibile,risolta,3.9,52.0,
+T00836,2026-09-27,Milano,Supporto umano,web,Link non raggiungibile,risolta,27.7,58.2,4
+T00488,2026-02-09,Bologna,Chat IA,app,Come funziona,risolta,56.2,61.5,3
+T00941,2026-05-24,Bologna,Chat IA,app,Come funziona,risolta,27.4,42.7,5
+T00707,2026-07-01,Roma,Chat IA,app,Come funziona,risolta,7.8,89.9,4
+T00565,2026-06-21,Roma,Chat IA,app,Come funziona,risolta,18.9,105.0,3
+T01474,2026-09-15,Milano,Schede,app,Termine da chiarire,aperta,13.1,,
+T00831,2026-03-15,Roma,Chat IA,app,Risposta non disponibile,risolta,25.3,59.8,5
+T00281,2026-06-18,Roma,Diario,app,Eliminazione,risolta,13.5,68.6,5
+T00460,2026-07-05,Torino,Account,app,Informazioni privacy,in_lavorazione,15.8,,
+T01086,2026-02-25,Bologna,Diario,app,Eliminazione,risolta,14.4,63.4,
+T00082,2026-01-23,Torino,Diario,web,Eliminazione,risolta,8.9,102.2,3
+T00445,2026-09-30,Torino,Schede,app,Fonte da verificare,risolta,12.8,71.8,3
+T00782,2026-01-12,Bologna,Chat IA,app,Limiti IA,risolta,18.7,97.9,4
+T00668,2026-06-16,Roma,Chat IA,app,Limiti IA,in_lavorazione,15.4,,
+T00077,2026-06-04,Torino,Supporto umano,web,Informazioni risorse,in_lavorazione,63.8,,
+T00110,2026-09-10,Roma,Account,app,Accesso,risolta,39.9,89.3,5
+T00679,2026-04-15,Roma,Account,email,Informazioni privacy,risolta,6.4,53.1,
+T00386,2026-04-27,Torino,Diario,app,Salvataggio,risolta,10.4,53.5,3
+T00617,2026-03-17,Torino,Diario,app,Eliminazione,risolta,8.6,73.8,4
+T00409,2026-05-26,Torino,Chat IA,app,Limiti IA,risolta,16.2,109.5,
+T01507,2026-09-03,Milano,Chat IA,web,Limiti IA,risolta,10.9,39.5,1
+T00723,2026-05-12,Milano,Chat IA,app,Limiti IA,in_lavorazione,5.7,,
+T01315,2026-02-22,Milano,Diario,web,Grafico,risolta,3.6,47.5,5
+T01587,2026-09-09,Roma,Chat IA,web,Come funziona,risolta,10.9,22.6,4
+T00691,2026-06-14,Roma,Chat IA,app,Limiti IA,risolta,31.1,34.8,4
+T00900,2026-02-17,Milano,Supporto umano,app,Link non raggiungibile,risolta,8.3,46.9,
+T01472,2026-03-03,Bologna,Account,app,Informazioni privacy,risolta,15.9,82.7,3
+T00712,2026-09-06,Roma,Supporto umano,app,Informazioni risorse,risolta,3.1,37.1,5
+T01505,2026-06-26,Bologna,Diario,web,Eliminazione,risolta,5.1,64.2,3
+T00729,2026-07-22,Bologna,Schede,app,Fonte da verificare,risolta,11.3,16.9,
+T01594,2026-09-19,Milano,Account,app,Accesso,risolta,27.0,80.8,4
+T00133,2026-09-26,Bologna,Chat IA,email,Limiti IA,risolta,11.2,80.0,5
+T00648,2026-01-31,Bologna,Schede,email,Fonte da verificare,risolta,8.7,20.6,
+T00967,2026-09-28,Roma,Chat IA,app,Come funziona,risolta,7.2,52.1,3
+T00675,2026-04-04,Roma,Diario,app,Grafico,risolta,25.1,99.1,
+T00861,2026-09-30,Torino,Chat IA,app,Risposta non disponibile,risolta,8.3,14.3,
+T00265,2026-09-04,Bologna,Account,web,Accesso,risolta,19.5,42.3,2
+T01206,2026-01-25,Torino,Schede,app,Fonte da verificare,risolta,3.8,81.6,
+T00659,2026-05-24,Milano,Supporto umano,email,Informazioni risorse,in_lavorazione,18.4,,
+T01236,2026-06-25,Milano,Diario,app,Grafico,risolta,16.8,55.1,5
+T01498,2026-03-07,Bologna,Account,web,Accesso,risolta,6.5,47.1,3
+T01546,2026-04-14,Milano,Schede,web,Fonte da verificare,in_lavorazione,19.2,,
+T01190,2026-02-04,Milano,Chat IA,web,Come funziona,risolta,18.7,49.9,3
+T01354,2026-09-03,Torino,Chat IA,app,Come funziona,risolta,49.3,144.0,
+T00496,27/02/2026,Torino,Supporto umano,email,Informazioni risorse,risolta,4.2,28.0,3
+T01060,2026-07-14,Milano,Supporto umano,app,Link non raggiungibile,in_lavorazione,52.9,,
+T01471,2026-09-20,Milano,Chat IA,email,Come funziona,risolta,7.3,21.0,3
+T00228,2026-04-10,Milano,Chat IA,email,Limiti IA,risolta,6.8,98.5,5
+T01054,2026-08-12,Bologna,Chat IA,app,Come funziona,in_lavorazione,7.8,,
+T00853,2026-04-04,Bologna,Supporto umano,app,Informazioni risorse,in_lavorazione,7.5,,
+T01541,2026-03-20,Torino,Chat IA,email,Limiti IA,aperta,5.7,,
+T00168,2026-01-27,Torino,Schede,web,Navigazione,risolta,16.3,96.1,
+T00380,2026-03-24,Milano,Schede,app,Navigazione,risolta,37.6,63.2,5
+T00098,2026-07-26,Bologna,Chat IA,app,Risposta non disponibile,risolta,4.0,83.0,5
+T01385,2026-02-09,Roma,Diario,web,Eliminazione,risolta,52.5,105.2,5
+T00425,2026-03-05,Bologna,Supporto umano,web,Link non raggiungibile,risolta,32.2,47.8,3
+T01410,2026-09-22,Bologna,Chat IA,app,Risposta non disponibile,risolta,26.8,48.9,
+T00660,2026-04-08,Torino,Chat IA,app,Risposta non disponibile,risolta,15.8,85.8,
+T00758,2026-07-09,Bologna,Diario,app,Salvataggio,risolta,43.1,120.5,2
+T00582,2026-04-16,Milano,Schede,app,Navigazione,in_lavorazione,17.4,,
+T01183,2026-05-23,Roma,Chat IA,app,Come funziona,aperta,5.2,,
+T00276,2026-01-29,Milano,Schede,web,Fonte da verificare,risolta,29.5,50.2,
+T00636,2026-07-09,Torino,Chat IA,web,Come funziona,risolta,29.2,94.8,4
+T00009,2026-02-12,Bologna,Account,email,Accesso,risolta,10.1,102.4,5
+T00931,2026-02-01,Bologna,Chat IA,web,Come funziona,risolta,11.2,17.8,4
+T00600,2026-02-07,Milano,Diario,app,Eliminazione,risolta,8.9,44.4,3
+T00859,2026-02-20,Bologna,Chat IA,app,Limiti IA,risolta,7.8,35.3,3
+T01140,2026-03-28,Torino,Diario,web,Grafico,risolta,10.4,71.1,4
+T00524,2026-02-04,Torino,Chat IA,app,Limiti IA,risolta,10.1,61.6,4
+T00274,2026-06-25,Torino,Diario,app,Grafico,risolta,4.6,65.5,5
+T00405,2026-07-11,Bologna,Diario,app,Eliminazione,risolta,15.1,58.9,3
+T01526,2026-08-30,Bologna,Supporto umano,email,Link non raggiungibile,aperta,14.1,,
+T01468,2026-05-04,Bologna,Chat IA,app,Risposta non disponibile,risolta,32.8,35.2,5
+T01371,2026-04-19,Torino,Chat IA,app,Risposta non disponibile,risolta,9.6,80.2,2
+T01599,31/02/2026,Bologna,Schede,email,Navigazione,risolta,8.6,23.1,5
+T00475,2026-06-26,Torino,Diario,app,Salvataggio,risolta,8.2,55.6,4
+T00210,2026-02-26,Roma,Schede,app,Termine da chiarire,risolta,5.0,33.8,5
+T00611,2026-01-05,Torino,Account,app,Accesso,risolta,24.4,32.5,3
+T00244,2026-09-01,Roma,Diario,email,Salvataggio,risolta,6.0,67.3,4
+T01171,2026-05-16,Torino, DIARIO ,app,Grafico,risolta,6.7,74.5,
+T01529,2026-02-12,Bologna,Diario,email,Eliminazione,risolta,9.8,94.8,
+T01508,2026-06-29,Milano,Diario,web,Salvataggio,risolta,3.5,74.7,4
+T00684,2026-04-07,Torino,Chat IA,web,Risposta non disponibile,risolta,13.3,20.4,2
+T00142,2026-05-25,Bologna,Diario,email,Grafico,aperta,6.5,,
+T00286,2026-08-31,Milano,Chat IA,web,Risposta non disponibile,risolta,8.4,91.7,
+T00399,2026-08-03,Bologna,Diario,email,Eliminazione,risolta,39.3,67.0,
+T00942,2026-02-21,Roma,Supporto umano,app,Informazioni risorse,risolta,10.7,83.6,4
+T01444,2026-04-08,Milano,Account,app,Informazioni privacy,risolta,19.0,43.8,4
+T00716,2026-05-05,Roma,Diario,email,Eliminazione,risolta,4.3,90.4,3
+T01448,2026-01-26,Bologna,Chat IA,web,Limiti IA,risolta,11.0,36.8,4
+T00097,2026-03-06,Torino,Diario,web,Grafico,risolta,10.7,105.0,5
+T00046,2026-02-04,Milano,Schede,app,Fonte da verificare,aperta,26.8,,
+T00442,2026-08-22,Torino,Chat IA,app,Limiti IA,risolta,7.5,61.0,5
+T00523,2026-04-01,Torino,Diario,web,Salvataggio,risolta,36.0,52.4,5
+T00473,2026-09-23,Torino,Supporto umano,email,Informazioni risorse,risolta,13.3,84.9,5
+T01267,2026-06-27,Milano,Diario,web,Eliminazione,risolta,7.6,28.0,5
+T00330,2026-01-13,Milano,Chat IA,app,Risposta non disponibile,risolta,16.9,39.7,5
+T00929,2026-06-05,Bologna,Diario,web,Grafico,risolta,11.3,105.5,
+T01059,2026-09-28,Torino, CHAT IA ,web,Risposta non disponibile,in_lavorazione,1.5,,
+T00417,2026-08-12,Bologna,Schede,app,Fonte da verificare,risolta,24.2,55.4,
+T00158,2026-02-14,Bologna,Chat IA,web,Come funziona,risolta,23.4,112.9,
+T00017,2026-07-04,Torino,Diario,app,Grafico,risolta,27.0,68.0,4
+T00401,2026-01-08,Roma,Supporto umano,app,Link non raggiungibile,risolta,7.2,19.3,3
+T00039,2026-06-02,Torino,Account,web,Accesso,risolta,14.6,102.9,3
+T00339,2026-07-03,Bologna,Supporto umano,web,Informazioni risorse,in_lavorazione,47.7,,
+T00687,2026-03-10,Torino,Chat IA,app,Limiti IA,risolta,13.1,66.8,1
+T01131,2026-04-10,Bologna,Schede,app,Navigazione,risolta,4.2,78.0,5
+T01313,2026-06-10,Roma,Diario,email,Eliminazione,risolta,17.8,100.4,5
+T01335,2026-06-02,Roma,Chat IA,app,Risposta non disponibile,in_lavorazione,40.8,,
+T01303,2026-08-22,Milano,Supporto umano,web,Link non raggiungibile,risolta,50.0,140.7,4
+T01233,2026-01-23,Bologna,Schede,app,Fonte da verificare,in_lavorazione,50.3,,
+T00847,2026-06-16,Bologna,Diario,web,Grafico,risolta,3.3,82.0,4
+T01072,2026-02-11,Bologna,Schede,email,Navigazione,in_lavorazione,2.9,,
+T00293,2026-07-07,Bologna,Chat IA,web,Come funziona,in_lavorazione,4.4,,
+T00856,2026-06-21,Torino,Diario,app,Eliminazione,risolta,1.1,48.4,4
+T00219,2026-08-18,Milano,Supporto umano,app,Link non raggiungibile,risolta,24.8,94.1,5
+T01506,2026-02-23,Roma,Supporto umano,app,Informazioni risorse,risolta,13.8,78.7,
+T01165,2026-04-18,Roma,Supporto umano,app,Link non raggiungibile,risolta,2.7,53.7,3
+T00719,2026-09-25,Bologna,Supporto umano,app,Link non raggiungibile,risolta,10.2,45.5,4
+T01133,2026-02-23,Torino,Diario,web,Grafico,risolta,13.5,92.3,4
+T00848,2026-04-13,Torino,Diario,web,Grafico,risolta,12.4,38.3,4
+T01213,2026-06-20,Bologna,Supporto umano,app,Link non raggiungibile,risolta,10.8,31.3,5
+T00074,2026-06-01,Bologna,Chat IA,app,Come funziona,risolta,35.4,55.1,
+T00889,2026-05-03,Milano,Schede,app,Termine da chiarire,risolta,5.5,20.3,4
+T00682,2026-06-09,Torino,Diario,email,Salvataggio,risolta,5.7,25.5,
+T00132,2026-04-24,Bologna,Diario,app,Salvataggio,risolta,17.5,25.3,5
+T01528,2026-07-13,Bologna,Diario,app,Salvataggio,risolta,16.7,72.5,5
+T00570,2026-08-20,Torino,Schede,web,Navigazione,risolta,19.1,62.6,3
+T00608,2026-06-01,Roma,Account,app,Accesso,risolta,6.3,39.7,5
+T01382,2026-03-30,Torino,Chat IA,app,Risposta non disponibile,risolta,10.1,64.6,2
+T01167,2026-07-03,Milano,Supporto umano,app,Informazioni risorse,risolta,10.0,80.4,
+T00031,2026-02-28,Torino,Chat IA,email,Risposta non disponibile,in_lavorazione,4.8,,
+T01379,2026-04-29,Milano,Chat IA,email,Risposta non disponibile,in_lavorazione,12.4,,
+T00743,2026-08-08,Bologna,Chat IA,app,Limiti IA,aperta,13.2,,
+T01512,2026-08-18,Bologna,Chat IA,email,Come funziona,risolta,8.3,79.5,4
+T00536,14/02/2026,Milano,Diario,web,Eliminazione,aperta,25.2,,
+T00126,2026-09-13,Roma,Schede,app,Navigazione,risolta,9999,9999,
+T01021,2026-07-06,Torino,Schede,email,Fonte da verificare,aperta,17.5,,
+T01465,2026-01-24,Roma,Diario,app,Eliminazione,risolta,6.4,90.1,5
+T01111,2026-01-18,Bologna,Diario,email,Eliminazione,risolta,1.2,9999,4
+T00963,2026-05-03,Torino,Schede,web,Navigazione,risolta,18.9,34.4,
+T00450,2026-06-27,Roma,Schede,app,Fonte da verificare,aperta,41.7,,
+T00256,2026-07-08,Roma,Supporto umano,web,Link non raggiungibile,risolta,4.7,40.2,4
+T00644,2026-03-25,Milano,Diario,web,Salvataggio,aperta,18.9,,
+T01154,2026-09-05,Roma,Chat IA,app,Come funziona,risolta,19.2,86.6,4
+T00164,2026-02-17,Roma,Diario,web,Salvataggio,risolta,33.9,124.5,3
+T01132,2026-07-29,Bologna,Diario,app,Eliminazione,risolta,11.9,80.4,3
+T00124,2026-08-28,Milano,Diario,email,Eliminazione,risolta,11.6,70.6,5
+T00475,2026-06-26,Torino,Diario,app,Salvataggio,risolta,8.2,55.6,4
+T00310,2026-01-27,Roma,Schede,web,Navigazione,in_lavorazione,15.2,,
+T01363,2026-03-07,Milano,Chat IA,web,Limiti IA,risolta,7.5,14.6,4
+T00355,2026-02-23,Milano,Supporto umano,app,Link non raggiungibile,risolta,2.5,97.3,
+T00776,2026-09-12,Torino,Chat IA,web,Risposta non disponibile,risolta,12.3,74.8,3
+T00299,2026-03-25,Milano,Diario,app,Eliminazione,risolta,6.1,23.0,4
+T00558,2026-02-09,Roma,Schede,web,Termine da chiarire,risolta,4.8,57.1,5
+T00466,2026-07-31,Bologna,Diario,web,Grafico,risolta,15.4,23.6,5
+T00937,2026-02-05,Milano,Schede,web,Fonte da verificare,risolta,7.6,71.9,4
+T00534,2026-07-03,Bologna,Chat IA,app,Come funziona,risolta,24.6,97.7,
+T00578,2026-08-02,Bologna,Schede,app,Navigazione,risolta,21.2,66.7,
+T00414,2026-09-16,Milano,Schede,app,Termine da chiarire,in_lavorazione,7.7,,
+T01074,2026-05-05,Bologna,Chat IA,email,Limiti IA,risolta,18.9,107.2,5
+T01138,2026-07-25,Bologna,Chat IA,web,Limiti IA,risolta,10.1,16.3,
+T00088,2026-06-19,Torino,Diario,app,Eliminazione,risolta,8.6,45.9,5
+T01467,2026-04-21,Bologna,Account,app,Informazioni privacy,in_lavorazione,15.5,,
+T00421,2026-09-03,Bologna,Account,app,Informazioni privacy,risolta,10.6,69.3,4
+T00870,2026-02-04,Bologna,Chat IA,app,Limiti IA,risolta,17.1,24.5,
+T00160,2026-09-16,Milano,Diario,web,Eliminazione,risolta,9.0,58.0,5
+T00573,2026-02-21,Torino,Chat IA,web,Risposta non disponibile,risolta,13.1,55.2,4
+T00118,2026-03-31,Torino,Supporto umano,app,Link non raggiungibile,risolta,9.9,63.5,
+T01559,2026-07-23,Bologna,Diario,app,Eliminazione,risolta,8.2,63.7,5
+T01158,2026-05-03,Bologna,Chat IA,web,Come funziona,risolta,10.6,99.0,
+T01309,2026-07-14,Milano,Chat IA,app,Risposta non disponibile,risolta,12.5,86.5,
+T00230,2026-01-12,Bologna,Chat IA,app,Risposta non disponibile,risolta,40.9,109.0,
+T00044,2026-01-17,Roma,Schede,app,Fonte da verificare,in_lavorazione,10.5,,
+T00790,2026-06-27,Torino,Schede,web,Termine da chiarire,risolta,4.3,17.8,4
+T00215,2026-01-10,Roma,Chat IA,app,Come funziona,risolta,12.7,51.3,2
+T00423,2026-04-07,Torino,Diario,app,Salvataggio,risolta,11.6,40.1,
+T01461,2026-05-01,Bologna,Supporto umano,app,Link non raggiungibile,risolta,6.1,80.2,4
+T00829,2026-01-29,Milano,Diario,app,Eliminazione,risolta,11.9,54.5,3
+T00070,2026-04-08,Milano,Schede,app,Navigazione,in_lavorazione,10.2,,
+T00222,2026-06-16,Torino,Schede,app,Fonte da verificare,risolta,5.4,17.8,4
+T00877,2026-01-27,Roma,Schede,app,Termine da chiarire,risolta,4.6,27.2,5
+T00312,2026-06-08,Torino,Schede,web,Termine da chiarire,risolta,24.5,77.5,4
+T00713,2026-02-12,Roma,Chat IA,email,Limiti IA,risolta,11.3,96.2,4
+T01452,2026-05-21,Roma,Chat IA,app,Come funziona,risolta,16.7,76.6,3
+T00854,2026-06-07,Torino,Schede,email,Fonte da verificare,in_lavorazione,28.9,,
+T00012,2026-02-22,Torino,Chat IA,web,Come funziona,risolta,10.7,55.9,5
+T00314,2026-09-20,Roma,Diario,app,Grafico,risolta,7.8,99.4,
+T00085,2026-07-29,Bologna,Schede,email,Termine da chiarire,in_lavorazione,5.2,,
+T01518,2026-01-29,Torino,Diario,web,Eliminazione,risolta,2.7,38.6,2
+T00619,2026-06-05,Milano,Schede,app,Termine da chiarire,in_lavorazione,19.1,,
+T01101,2026-08-13,Torino,Schede,app,Termine da chiarire,risolta,25.0,106.9,2
+T00542,2026-01-04,Roma,Diario,web,Eliminazione,risolta,24.2,86.7,5
+T00476,2026-04-21,Bologna,Schede,email,Fonte da verificare,risolta,20.3,32.0,
+T01488,2026-02-18,Bologna,Chat IA,email,Come funziona,risolta,32.1,79.5,5
+T01480,2026-08-10,Milano,Schede,app,Navigazione,aperta,25.8,,
+T01098,2026-07-22,Roma,Diario,web,Salvataggio,risolta,6.1,39.4,5
+T01314,2026-03-04,Torino,Diario,app,Eliminazione,in_lavorazione,13.5,,
+T00989,2026-08-19,Bologna,Schede,web,Navigazione,risolta,15.5,80.9,2
+T00794,2026-04-11,Bologna,Chat IA,app,Risposta non disponibile,aperta,16.9,,
+T00407,2026-06-01,Roma,Diario,web,Grafico,aperta,33.9,,
+T01151,2026-02-23,Bologna,Supporto umano,app,Informazioni risorse,aperta,31.8,,
+T01553,2026-09-23,Torino,Chat IA,app,Limiti IA,risolta,8.8,71.1,3
+T00170,2026-07-29,Milano,Chat IA,app,Limiti IA,risolta,11.1,80.6,2
+T00907,2026-03-11,Bologna,Diario,web,Grafico,in_lavorazione,6.6,,
+T01447,2026-07-16,Roma,Chat IA,web,Limiti IA,risolta,10.0,36.8,4
+T00413,2026-01-01,Milano,Supporto umano,app,Informazioni risorse,aperta,10.8,,
+T01339,16/05/2026,Roma,Schede,app,Termine da chiarire,risolta,64.0,77.1,
+T00910,2026-02-02,Torino,Chat IA,app,Risposta non disponibile,risolta,20.0,79.8,
+T00481,2026-01-08,Bologna,Schede,web,Termine da chiarire,in_lavorazione,30.8,,
+T00480,2026-04-09,Milano,Account,app,Accesso,risolta,28.5,34.5,3
+T01582,2026-05-31,Torino,Chat IA,web,Risposta non disponibile,risolta,36.1,81.2,
+T01367,2026-07-07,Roma,Chat IA,app,Limiti IA,risolta,17.0,97.1,
+T00213,2026-09-30,Milano,Schede,app,Termine da chiarire,risolta,8.4,36.1,
+T01592,2026-07-29,Milano,Schede,web,Termine da chiarire,risolta,11.9,85.6,
+T00311,2026-08-20,Roma, SUPPORTO UMANO ,web,Link non raggiungibile,risolta,12.5,67.1,4
+T01326,2026-08-16,Bologna,Schede,app,Termine da chiarire,risolta,7.9,83.6,5
+T00556,2026-08-13,Milano,Supporto umano,email,Informazioni risorse,risolta,89.2,161.2,4
+T00459,2026-02-28,Torino,Chat IA,app,Come funziona,risolta,28.2,85.9,4
+T01575,2026-08-21,Roma,Chat IA,email,Risposta non disponibile,risolta,21.7,88.3,5
+T01203,2026-05-27,Milano,Chat IA,web,Come funziona,risolta,9.6,85.9,
+T01234,2026-07-22,Milano,Diario,app,Eliminazione,aperta,2.3,,
+T00334,2026-09-29,Bologna,Schede,app,Termine da chiarire,risolta,,94.4,
+T01344,2026-08-08,Bologna,Schede,app,Navigazione,risolta,33.0,120.5,2
+T01482,2026-01-09,Bologna,Diario,app,Eliminazione,risolta,6.1,94.9,5
+T00043,2026-05-22,Roma,Supporto umano,app,Link non raggiungibile,risolta,6.2,99.5,3
+T00905,2026-04-28,Milano,Diario,email,Grafico,risolta,23.6,50.1,
+T01542,2026-04-05,Torino,Diario,web,Eliminazione,in_lavorazione,13.3,,
+T00823,2026-09-19,Bologna,Chat IA,app,Come funziona,risolta,8.9,65.7,
+T00796,2026-03-24,Bologna,Account,web,Accesso,in_lavorazione,10.5,,
+T01291,2026-02-03,Torino,Schede,email,Fonte da verificare,risolta,21.3,114.3,
+T00560,2026-07-31,Torino,Chat IA,app,Come funziona,risolta,12.4,103.0,3
+T00939,2026-01-10,Milano,Supporto umano,web,Link non raggiungibile,in_lavorazione,13.9,,
+T00067,2026-02-11,Roma,Account,app,Informazioni privacy,risolta,24.1,44.6,4
+T01201,2026-03-29,Torino,Chat IA,web,Come funziona,risolta,18.5,96.6,
+T00332,2026-08-26,Bologna,Chat IA,email,Come funziona,risolta,4.5,12.6,4
+T00443,2026-06-09,Roma,Chat IA,web,Come funziona,risolta,4.9,89.1,5
+T01336,2026-06-27,Torino,Diario,email,Grafico,aperta,6.2,,
+T00468,2026-07-05,Torino,Chat IA,app,Limiti IA,risolta,13.5,83.6,2
+T00824,2026-07-02,Milano,Chat IA,web,Come funziona,risolta,16.9,47.8,3
+T00264,2026-06-03,Bologna,Diario,app,Eliminazione,risolta,18.7,66.3,4
+T00932,2026-09-27,Bologna,Account,app,Accesso,risolta,1.8,45.0,5
+T00483,2026-02-28,Milano,Diario,web,Grafico,risolta,17.7,29.0,4
+T00307,2026-01-03,Roma,Diario,app,Salvataggio,in_lavorazione,7.1,,
+T01282,2026-03-18,Milano,Chat IA,web,Limiti IA,in_lavorazione,8.5,,
+T01127,2026-03-23,Milano,Account,app,Informazioni privacy,risolta,,90.7,5
+T01283,2026-02-23,Torino,Diario,app,Eliminazione,risolta,18.0,76.2,4
+T00448,2026-02-10,Torino,Account,app,Accesso,aperta,7.3,,
+T00887,2026-08-20,Roma,Chat IA,app,Limiti IA,risolta,36.3,94.1,
+T00119,2026-07-23,Torino,Chat IA,web,Risposta non disponibile,risolta,18.3,71.6,5
+T00242,2026-04-25,Bologna,Supporto umano,email,Link non raggiungibile,risolta,16.7,30.4,4
+T01484,2026-05-30,Torino,Diario,app,Eliminazione,aperta,6.0,,
+T00224,2026-06-08,Milano,Supporto umano,app,Informazioni risorse,risolta,25.3,52.4,4
+T00091,2026-06-01,Roma,Chat IA,app,Limiti IA,in_lavorazione,18.0,,
+T00157,2026-09-27,Bologna,Diario,app,Eliminazione,risolta,6.6,15.6,5
+T01544,2026-06-02,Milano,Schede,app,Navigazione,in_lavorazione,13.5,,
+T00433,2026-05-05,Roma,Schede,app,Termine da chiarire,aperta,31.9,,
+T00642,2026-02-20,Bologna,Schede,app,Navigazione,risolta,10.3,101.4,5
+T01253,2026-09-05,Milano,Supporto umano,app,Informazioni risorse,in_lavorazione,19.5,,
+T01316,31/02/2026,Torino,Diario,app,Salvataggio,risolta,7.0,87.3,
+T00652,2026-05-04,Roma,Chat IA,app,Come funziona,in_lavorazione,13.9,,
+T00322,2026-06-15,Roma,Chat IA,app,Risposta non disponibile,risolta,,124.4,
+T00002,2026-07-18,Milano,Schede,app,Termine da chiarire,risolta,11.4,34.3,4
+T00014,2026-02-10,Milano,Supporto umano,app,Informazioni risorse,in_lavorazione,11.5,,
+T00938,2026-03-20,Torino,Chat IA,email,Risposta non disponibile,risolta,79.9,165.1,
+T01470,2026-05-02,Milano,Diario,web,Grafico,risolta,28.1,53.8,5
+T01157,2026-07-13,Roma,Chat IA,web,Risposta non disponibile,risolta,3.5,61.9,5
+T00022,2026-06-25,Roma,Diario,web,Salvataggio,risolta,6.9,54.0,5
+T00584,2026-08-13,Torino,Chat IA,email,Risposta non disponibile,in_lavorazione,4.5,,
+T00553,2026-06-14,Roma,Chat IA,app,Risposta non disponibile,risolta,-3,16.2,3
+T01109,2026-05-05,Milano,Schede,web,Termine da chiarire,aperta,9.9,,
+T00257,2026-08-06,Torino,Account,app,Informazioni privacy,risolta,31.7,88.0,
+T01182,2026-07-16,Bologna,Chat IA,app,Come funziona,risolta,10.7,18.3,4
+T00991,2026-01-04,Torino,Chat IA,web,Limiti IA,risolta,2.7,47.0,3
+T00479,2026-03-03,Torino,Diario,web,Eliminazione,risolta,60.2,117.0,4
+T00346,2026-02-07,Roma,Chat IA,web,Risposta non disponibile,risolta,16.2,95.3,5
+T00143,2026-03-21,Roma,Diario,email,Salvataggio,aperta,5.3,,
+T01551,2026-01-27,Bologna,Chat IA,email,Risposta non disponibile,risolta,14.2,92.0,3
+T00427,2026-07-15,Bologna,Chat IA,app,Come funziona,risolta,16.0,28.7,5
+T00721,2026-09-05,Bologna,Chat IA,web,Come funziona,in_lavorazione,6.3,,
+T00320,2026-07-05,Bologna,Supporto umano,app,Link non raggiungibile,risolta,15.6,35.0,4
+T01593,2026-02-26,Bologna,Schede,email,Termine da chiarire,risolta,14.5,30.6,3
+T01543,2026-09-27,Bologna,Account,web,Informazioni privacy,in_lavorazione,6.3,,
+T00886,2026-01-03,Torino,Chat IA,app,Come funziona,risolta,29.4,117.0,4
+T01443,2026-06-08,Roma,Chat IA,app,Come funziona,risolta,2.5,75.9,5
+T00145,2026-03-30,Torino,Supporto umano,app,Informazioni risorse,aperta,3.2,,
+T00846,2026-07-23,Milano,Supporto umano,app,Link non raggiungibile,aperta,19.0,,
+T00935,2026-06-16,Milano,Diario,web,Salvataggio,risolta,53.1,123.3,3
+T01196,2026-07-16,Torino,Diario,app,Eliminazione,risolta,16.2,59.1,
+T00532,2026-02-15,Roma,Supporto umano,app,Link non raggiungibile,aperta,10.5,,
+T00191,2026-09-22,Roma,Account,app,Informazioni privacy,risolta,12.0,32.2,4
+T01364,2026-08-12,Milano, ACCOUNT ,web,Accesso,risolta,8.2,42.5,5
+T00742,2026-02-22,Bologna,Diario,app,Eliminazione,risolta,9.9,36.6,
+T00884,2026-09-09,Roma,Schede,app,Termine da chiarire,risolta,4.4,88.6,4
+T01320,2026-05-03,Bologna,Diario,app,Salvataggio,aperta,4.9,,
+T00285,2026-07-22,Torino,Diario,app,Grafico,risolta,5.6,53.5,3
+T00622,2026-08-09,Roma,Schede,app,Termine da chiarire,risolta,16.3,37.2,
+T00472,2026-07-20,Milano,Diario,app,Grafico,in_lavorazione,18.4,,
+T00788,2026-03-28,Milano,Chat IA,web,Come funziona,risolta,22.6,103.3,5
+T00777,2026-02-27,Roma,Chat IA,app,Come funziona,aperta,8.2,,
+T00983,2026-07-25,Milano,Diario,app,Salvataggio,risolta,17.5,100.4,5
+T01522,2026-06-23,Bologna,Chat IA,web,Risposta non disponibile,risolta,3.3,96.7,5
+T00965,2026-06-01,Torino,Diario,web,Eliminazione,risolta,13.1,107.9,
+T00688,2026-05-20,Bologna,Account,web,Informazioni privacy,aperta,7.6,,
+T00614,2026-02-13,Torino,Schede,email,Termine da chiarire,risolta,9.8,100.6,2
+T00564,2026-04-02,Roma,Supporto umano,app,Informazioni risorse,risolta,14.1,68.1,5
+T00344,2026-06-29,Milano,Diario,app,Salvataggio,risolta,8.4,92.8,4
+T00890,2026-02-26,Bologna,Chat IA,web,Limiti IA,in_lavorazione,29.0,,
+T00955,2026-02-24,Bologna,Supporto umano,app,Link non raggiungibile,risolta,12.5,80.9,5
+T01136,2026-07-01,Milano,Chat IA,email,Limiti IA,risolta,17.0,110.3,4
+T01104,2026-09-25,Milano,Diario,app,Salvataggio,risolta,11.5,40.8,2
+T01299,2026-05-28,Bologna,Chat IA,app,Limiti IA,risolta,9.5,85.0,
+T00802,2026-01-23,Torino,Diario,app,Grafico,in_lavorazione,43.4,,
+T00128,2026-03-19,Milano,Chat IA,app,Come funziona,risolta,2.7,53.9,
+T00618,2026-06-26,Torino,Account,app,Informazioni privacy,risolta,12.9,87.3,4
+T00615,2026-07-12,Roma,Schede,app,Termine da chiarire,risolta,35.3,104.9,5
+T00757,2026-06-05,Roma,Chat IA,web,Limiti IA,risolta,15.9,38.7,1
+T00129,2026-09-29,Bologna,Account,web,Informazioni privacy,risolta,2.4,44.0,4
+T00839,2026-09-08,Torino,Diario,web,Eliminazione,risolta,11.0,49.3,3
+T00740,2026-02-03,Milano,Chat IA,web,Risposta non disponibile,risolta,6.2,45.6,
+T01557,2026-03-22,Bologna,Account,app,Informazioni privacy,risolta,-3,34.7,3
+T01089,2026-06-15,Bologna,Diario,web,Eliminazione,in_lavorazione,14.4,,
+T00023,2026-01-14,Bologna,Chat IA,app,Come funziona,in_lavorazione,5.8,,
+T01067,2026-07-31,Torino,Chat IA,app,Limiti IA,risolta,13.5,31.4,5
+T00371,2026-05-07,Torino,Diario,email,Eliminazione,risolta,9999,34.5,
+T01576,2026-02-05,Roma,Chat IA,web,Limiti IA,risolta,12.6,53.4,5
+T00672,2026-04-16,Bologna,Supporto umano,email,Informazioni risorse,risolta,34.6,57.0,4
+T00050,2026-02-15,Bologna,Supporto umano,app,Informazioni risorse,risolta,22.1,55.2,4
+T00655,2026-05-29,Bologna,Account,web,Accesso,risolta,5.8,33.7,4
+T01483,2026-09-09,Bologna,Chat IA,web,Risposta non disponibile,risolta,5.5,52.3,1
+T00313,2026-09-22,Torino,Diario,app,Salvataggio,risolta,5.0,47.7,
+T01570,2026-02-02,Torino,Supporto umano,web,Link non raggiungibile,in_lavorazione,12.1,,
+T00289,2026-09-22,Bologna,Diario,web,Salvataggio,risolta,7.8,63.2,3
+T01552,2026-04-26,Roma,Chat IA,app,Limiti IA,risolta,22.1,76.2,4
+T00903,2026-08-21,Bologna,Schede,web,Termine da chiarire,risolta,4.5,39.2,2
+T01159,2026-05-24,Milano,Supporto umano,app,Informazioni risorse,risolta,2.9,23.1,
+T00826,2026-07-23,Roma,Chat IA,web,Come funziona,risolta,24.2,40.6,5
+T00147,2026-05-08,Torino,Chat IA,web,Come funziona,risolta,17.3,23.3,4
+T01277,2026-02-17,Milano,Supporto umano,app,Link non raggiungibile,risolta,12.5,59.9,4
+T00733,2026-05-12,Roma,Diario,web,Salvataggio,risolta,9.5,78.4,5
+T01400,2026-08-15,Roma,Chat IA,web,Risposta non disponibile,risolta,10.1,84.3,2
+T01412,2026-02-25,Milano,Chat IA,email,Limiti IA,risolta,9.5,26.3,
+T00301,2026-07-15,Milano,Diario,app,Grafico,aperta,12.4,,
+T00681,2026-01-07,Torino,Chat IA,app,Risposta non disponibile,in_lavorazione,5.6,,
+T00632,2026-03-10,Torino,Supporto umano,email,Informazioni risorse,risolta,2.8,47.9,
+T01162,2026-05-09,Milano,Chat IA,app,Come funziona,risolta,13.0,32.1,
+T00977,2026-09-28,Roma,Chat IA,email,Limiti IA,risolta,25.0,112.1,2
+T01548,20/04/2026,Torino,Chat IA,email,Come funziona,risolta,29.0,112.2,
+T00968,2026-07-11,Roma,Chat IA,app,Limiti IA,risolta,6.6,59.5,
+T00300,2026-09-26,Milano,Account,app,Informazioni privacy,risolta,29.9,120.1,4
+T00951,2026-06-23,Bologna,Schede,web,Termine da chiarire,risolta,2.1,40.5,5
+T01434,2026-03-25,Roma,Chat IA,app,Limiti IA,risolta,18.5,28.6,5
+T00453,2026-09-18,Milano,Chat IA,email,Risposta non disponibile,risolta,7.6,31.4,5
+T01129,2026-04-27,Roma,Chat IA,app,Come funziona,risolta,9.8,85.7,4
+T01062,2026-03-23,Roma,Schede,app,Navigazione,in_lavorazione,4.2,,
+T00993,2026-05-13,Roma,Diario,app,Eliminazione,risolta,77.8,85.0,5
+T01421,2026-05-25,Roma,Diario,web,Salvataggio,risolta,10.6,89.4,1
+T00915,2026-01-09,Bologna,Schede,app,Termine da chiarire,risolta,9.6,49.2,5
+T01580,2026-02-08,Bologna,Schede,app,Navigazione,risolta,7.3,44.5,5
+T00229,2026-03-30,Milano,Diario,app,Grafico,risolta,19.9,86.4,5
+T00566,2026-06-15,Bologna,Diario,web,Salvataggio,risolta,8.0,11.3,5
+T00767,2026-03-09,Torino,Chat IA,web,Come funziona,risolta,20.3,94.0,
+T01141,2026-03-20,Roma,Schede,web,Navigazione,risolta,20.6,26.7,4
+T01329,2026-09-07,Bologna,Diario,app,Salvataggio,risolta,7.3,57.7,
+T00223,2026-06-17,Bologna,Supporto umano,web,Link non raggiungibile,risolta,3.6,33.2,5
+T00325,19/09/2026,Milano,Diario,app,Salvataggio,risolta,26.9,114.5,4
+T01517,11/02/2026,Milano,Chat IA,web,Limiti IA,risolta,17.7,108.2,4
+T01523,2026-01-15,Milano,Diario,web,Eliminazione,risolta,11.1,53.9,5
+T01366,2026-03-11,Milano,Schede,app,Fonte da verificare,risolta,14.6,87.9,
+T00661,2026-05-16,Torino,Schede,web,Termine da chiarire,risolta,10.7,31.6,4
+T00822,2026-05-15,Milano,Account,app,Informazioni privacy,risolta,5.1,72.2,4
+T00513,2026-09-19,Torino,Diario,web,Salvataggio,risolta,13.2,38.0,
+T00271,2026-01-30,Roma,Account,web,Accesso,risolta,18.5,24.4,4
+T00461,2026-09-01,Roma,Diario,email,Salvataggio,risolta,5.7,37.1,3
+T00956,2026-09-01,Milano,Chat IA,app,Limiti IA,risolta,15.5,95.0,
+T00176,2026-04-06,Torino,Chat IA,web,Come funziona,risolta,4.2,89.9,2
+T01527,2026-05-26,Bologna,Chat IA,app,Limiti IA,aperta,19.9,,
+T00490,2026-07-17,Milano,Diario,app,Grafico,risolta,11.6,66.1,3
+T00372,2026-09-23,Roma,Chat IA,app,Risposta non disponibile,risolta,15.6,67.4,5
+T00140,2026-07-10,Torino,Chat IA,email,Come funziona,risolta,31.8,114.2,
+T01545,2026-07-15,Torino,Diario,app,Grafico,risolta,4.3,7.5,
+T01515,2026-09-10,Torino,Diario,app,Grafico,in_lavorazione,8.5,,
+T00248,2026-07-08,Torino,Schede,app,Termine da chiarire,risolta,14.1,84.3,
+T00150,2026-03-29,Bologna,Chat IA,email,Come funziona,aperta,55.2,,
+T01395,2026-08-28,Bologna,Diario,app,Eliminazione,risolta,30.0,68.6,4
+T00700,2026-07-11,Bologna,Chat IA,app,Risposta non disponibile,risolta,3.5,40.5,4
+T01353,2026-06-25,Bologna,Schede,web,Fonte da verificare,risolta,15.0,63.9,3
+T01327,2026-08-03,Roma,Chat IA,web,Come funziona,risolta,10.0,100.4,
+T00883,2026-04-10,Milano,Schede,app,Termine da chiarire,risolta,29.3,78.3,
+T00217,2026-07-19,Milano,Chat IA,web,Come funziona,risolta,13.3,63.4,
+T01409,2026-02-26,Roma,Chat IA,email,Risposta non disponibile,risolta,19.0,40.6,5
+T01259,2026-09-03,Torino,Chat IA,app,Limiti IA,risolta,16.6,87.4,
+T00047,2026-05-17,Roma,Supporto umano,web,Informazioni risorse,risolta,8.9,83.2,4
+T00664,2026-05-03,Roma,Schede,web,Fonte da verificare,risolta,3.7,80.4,
+T00353,2026-06-03,Bologna,Diario,email,Eliminazione,in_lavorazione,2.4,,
+T01142,2026-05-04,Bologna,Chat IA,web,Limiti IA,risolta,28.5,47.6,5
+T01194,2026-09-26,Roma,Chat IA,app,Risposta non disponibile,aperta,5.8,,
+T00486,2026-08-20,Torino,Account,app,Informazioni privacy,risolta,3.6,66.4,
+T00377,2026-09-08,Torino,Supporto umano,app,Link non raggiungibile,risolta,29.3,32.9,4
+T01187,2026-07-05,Torino,Chat IA,app,Limiti IA,risolta,25.4,108.3,4
+T00603,2026-07-21,Torino,Supporto umano,web,Link non raggiungibile,in_lavorazione,5.6,,
+T01284,2026-02-23,Bologna,Chat IA,web,Limiti IA,in_lavorazione,6.8,,
+T01274,2026-08-28,Roma,Schede,app,Fonte da verificare,risolta,,20.1,3
+T00918,2026-07-13,Bologna,Schede,email,Fonte da verificare,in_lavorazione,96.4,,
+T00973,2026-07-27,Roma,Chat IA,email,Risposta non disponibile,risolta,5.1,67.7,4
+T00235,2026-09-22,Torino,Chat IA,app,Limiti IA,risolta,33.2,45.4,
+T01241,2026-02-21,Torino,Chat IA,app,Risposta non disponibile,risolta,16.1,38.1,4
+T00458,2026-01-16,Bologna,Supporto umano,WEB,Link non raggiungibile,risolta,8.7,48.0,3
+T01520,2026-09-17,Milano,Schede,app,Fonte da verificare,risolta,3.1,39.6,5
+T01440,2026-01-19,Milano,Chat IA,web,Risposta non disponibile,risolta,41.1,54.0,5
+T01451,2026-06-03,Milano,Supporto umano,app,Link non raggiungibile,risolta,7.4,90.1,
+T01097,2026-03-08,Torino,Schede,web,Fonte da verificare,risolta,22.0,50.0,4
+T00798,2026-04-09,Roma,Diario,APP,Eliminazione,risolta,15.0,105.0,5
+T01376,2026-07-21,Milano,Diario,email,Salvataggio,risolta,30.7,42.0,3
+T00173,2026-01-14,Torino,Chat IA,app,Limiti IA,risolta,2.8,60.3,4
+T01388,2026-07-06,Roma,Chat IA,app,Come funziona,aperta,48.6,,
+T01047,2026-02-19,Torino,Diario,email,Eliminazione,aperta,2.6,,
+T00390,2026-04-04,Roma,Diario,app,Eliminazione,risolta,18.4,63.8,
+T00303,2026-07-23,Bologna,Diario,web,Eliminazione,risolta,2.5,50.9,3
+T01119,2026-04-18,Bologna,Chat IA,app,Come funziona,risolta,19.5,61.3,
+T01094,2026-03-18,Torino,Schede,app,Termine da chiarire,risolta,38.8,57.9,4
+T00791,2026-06-04,Bologna,Chat IA,web,Risposta non disponibile,in_lavorazione,7.9,,
+T00821,2026-05-16,Milano,Diario,web,Eliminazione,risolta,11.3,94.9,5
+T00273,2026-01-07,Bologna,Schede,web,Fonte da verificare,risolta,19.9,92.5,
+T00436,2026-05-21,Roma,Diario,app,Salvataggio,risolta,14.1,81.0,
+T00003,2026-09-24,Bologna,Schede,app,Navigazione,risolta,11.6,46.4,
+T00006,2026-05-14,Milano,Diario,app,Eliminazione,risolta,20.9,45.3,
+T00086,2026-06-18,Torino,Account,app,Accesso,risolta,4.1,80.0,4
+T01510,2026-06-30,Torino,Diario,app,Grafico,risolta,3.3,61.7,4
+T01210,2026-01-30,Bologna,Chat IA,app,Risposta non disponibile,risolta,5.7,21.2,3
+T00807,2026-01-02,Milano,Supporto umano,web,Link non raggiungibile,risolta,5.5,83.2,5
+T01046,2026-06-20,Milano,Chat IA,web,Come funziona,risolta,10.3,20.7,
+T00321,2026-09-17,Milano,Chat IA,web,Come funziona,risolta,6.6,22.2,
+T01445,2026-04-21,Milano,Chat IA,app,Risposta non disponibile,risolta,13.4,87.9,1
+T01153,2026-09-27,Bologna,Schede,app,Termine da chiarire,risolta,12.0,56.0,2
+T01052,2026-07-02,Roma,Chat IA,web,Limiti IA,risolta,17.7,95.1,4
+T00182,2026-04-02,Roma,Diario,app,Grafico,risolta,24.0,59.9,4
+T00348,2026-02-12,Torino, DIARIO ,web,Grafico,in_lavorazione,11.3,,
+T00666,2026-08-25,Bologna,Chat IA,web,Risposta non disponibile,risolta,15.1,80.6,4
+T00506,2026-04-01,Bologna,Chat IA,web,Come funziona,risolta,23.2,52.3,5
+T01037,2026-09-27,Bologna,Schede,app,Navigazione,risolta,19.9,29.6,3
+T01155,2026-06-03,Torino,Diario,web,Salvataggio,risolta,20.9,113.1,5
+T01564,2026-08-20,Bologna,Schede,app,Fonte da verificare,risolta,10.9,45.5,3
+T00503,2026-05-02,Roma,Diario,app,Eliminazione,in_lavorazione,46.0,,
+T00769,2026-02-06,Milano,Chat IA,app,Come funziona,risolta,21.2,51.9,
+T01137,2026-07-09,Milano,Supporto umano,app,Link non raggiungibile,in_lavorazione,5.8,,
+T01355,2026-08-21,Roma,Chat IA,web,Come funziona,risolta,6.2,67.6,4
+T00166,2026-03-17,Bologna,Schede,web,Navigazione,risolta,23.9,91.8,
+T00184,2026-08-07,Roma,Supporto umano,app,Link non raggiungibile,risolta,18.1,94.8,
+T00943,2026-08-07,Bologna,Chat IA,app,Risposta non disponibile,risolta,1.8,73.4,
+T00605,2026-09-06,Roma,Diario,web,Salvataggio,risolta,4.9,71.6,4
+T01547,2026-01-18,Roma,Supporto umano,web,Informazioni risorse,risolta,6.1,67.7,3
+T01082,2026-03-08,Roma,Schede,app,Fonte da verificare,risolta,41.8,93.3,
+T00154,2026-07-26,Bologna,Schede,email,Navigazione,risolta,24.4,117.3,5
+T00156,2026-05-10,Milano,Chat IA,web,Come funziona,risolta,17.9,94.0,5
+T01123,2026-07-13,Roma,Chat IA,app,Limiti IA,risolta,22.1,38.3,4
+T00978,2026-03-16,Milano,Account,app,Accesso,risolta,5.4,11.4,5
+T00362,2026-09-20,Milano,Diario,app,Grafico,risolta,7.8,83.4,3
+T01453,2026-08-27,Roma,Diario,app,Salvataggio,risolta,27.9,58.6,3
+T01390,2026-03-05,Roma,Diario,app,Salvataggio,in_lavorazione,6.6,,
+T00457,2026-06-17,Milano,Schede,web,Navigazione,risolta,8.1,77.1,5
+T00187,2026-04-01,Milano,Diario,web,Grafico,in_lavorazione,20.1,,
+T01501,2026-09-12,Torino,Account,email,Accesso,aperta,3.4,,
+T00683,2026-06-25,Milano,Account,web,Informazioni privacy,in_lavorazione,6.5,,
+T00289,2026-09-22,Bologna,Diario,web,Salvataggio,risolta,7.8,63.2,3
+T00840,2026-09-17,Bologna,Diario,app,Salvataggio,risolta,15.4,22.5,
+T01008,2026-03-13,Roma,Chat IA,email,Limiti IA,risolta,43.5,75.0,4
+T00678,2026-05-05,Torino,Account,web,Informazioni privacy,risolta,29.1,52.5,4
+T01446,2026-01-15,Torino,Account,app,Informazioni privacy,risolta,16.2,92.8,5
+T00172,2026-09-13,Bologna,Account,web,Informazioni privacy,in_lavorazione,11.9,,
+T00338,31/02/2026,Torino,Diario,web,Eliminazione,risolta,8.6,57.2,
+T01338,2026-02-10,Milano,Supporto umano,web,Link non raggiungibile,risolta,43.5,57.5,3
+T00695,2026-07-20,Bologna,Schede,app,Navigazione,risolta,18.9,88.2,
+T00389,2026-02-27,Roma,Schede,app,Fonte da verificare,risolta,9.7,26.0,4
+T00197,03/03/2026,Torino,Account,app,Informazioni privacy,risolta,64.5,95.2,5
+T01514,2026-02-19,Torino,Diario,app,Grafico,in_lavorazione,9.4,,
+T00221,2026-05-31,Roma,Chat IA,app,Come funziona,in_lavorazione,12.7,,
+T00613,2026-06-16,Roma,Chat IA,app,Limiti IA,risolta,66.2,80.3,4
+T00803,2026-01-13,Milano,Chat IA,email,Come funziona,risolta,8.9,66.8,5
+T00894,2026-01-19,Roma,Diario,email,Salvataggio,risolta,8.4,92.7,1
+T01168,2026-06-01,Roma,Diario,email,Eliminazione,risolta,4.4,66.9,
+T00933,2026-06-03,Roma,Account,web,Accesso,in_lavorazione,23.5,,
+T00121,2026-05-17,Torino,Chat IA,app,Come funziona,in_lavorazione,35.0,,
+T00872,2026-01-28,Milano,Diario,app,Grafico,risolta,15.4,33.3,
+T00948,2026-04-26,Torino,Chat IA,email,Risposta non disponibile,risolta,-3,111.0,4
+T00647,2026-09-21,Torino,Supporto umano,app,Link non raggiungibile,risolta,11.6,90.8,4
+T00857,2026-07-25,Roma,Chat IA,app,Risposta non disponibile,risolta,14.3,59.1,
+T00161,2026-08-30,Roma,Chat IA,app,Limiti IA,in_lavorazione,17.2,,
+T01276,2026-03-22,Bologna,Chat IA,app,Risposta non disponibile,risolta,9.3,36.8,3
+T00084,2026-09-14,Milano,Chat IA,app,Come funziona,risolta,16.2,34.1,5
+T00730,31/02/2026,Milano,Diario,email,Eliminazione,risolta,13.0,92.1,4
+T00451,2026-04-26,Bologna,Schede,app,Navigazione,aperta,8.8,,
+T01042,2026-05-22,Bologna,Supporto umano,email,Link non raggiungibile,risolta,17.6,55.6,4
+T01208,2026-08-26,Milano,Schede,app,Navigazione,risolta,16.3,9999,5
+T01161,2026-06-08,Bologna,Schede,app,Fonte da verificare,risolta,25.2,55.8,3
+T00001,25/03/2026,Milano,Schede,app,Navigazione,aperta,8.9,,
+T01539,2026-07-01,Torino,Account,email,Informazioni privacy,risolta,18.4,89.0,4
+T01413,2026-08-06,Torino,Chat IA,app,Come funziona,risolta,,80.8,5
+T00174,2026-08-24,Bologna,Supporto umano,email,Informazioni risorse,risolta,12.5,46.6,3
+T01249,2026-09-12,Torino,Diario,web,Grafico,risolta,22.0,56.8,2
+T00385,2026-03-22,Bologna,Diario,web,Eliminazione,risolta,70.4,165.0,4
+T00434,2026-02-22,Milano,Supporto umano,app,Informazioni risorse,risolta,17.5,80.5,4
+T01462,2026-01-08,Roma,Schede,app,Navigazione,risolta,26.7,31.7,4
+T00079,2026-08-20,Milano,Account,app,Informazioni privacy,risolta,11.0,59.8,5
+T00818,2026-09-19,Torino,Diario,app,Eliminazione,in_lavorazione,0.5,,
+T00547,2026-04-11,Torino,Account,email,Informazioni privacy,risolta,11.5,34.3,3
+T00936,2026-02-08,Milano,Supporto umano,email,Link non raggiungibile,risolta,16.9,89.7,5
+T00775,2026-08-24,Bologna,Account,web,Accesso,risolta,16.7,53.2,4
+T01010,2026-05-30,Roma,Diario,web,Grafico,risolta,14.6,85.2,5
+T00639,2026-09-13,Milano,Chat IA,app,Come funziona,risolta,12.4,83.5,4
+T00623,2026-06-01,Roma,Chat IA,app,Risposta non disponibile,risolta,9.9,79.8,
+T01577,03/03/2026,Torino,Schede,app,Termine da chiarire,risolta,5.1,87.7,4
+T01377,2026-07-10,Bologna,Account,email,Informazioni privacy,in_lavorazione,9.8,,
+T00239,2026-06-05,Milano,Chat IA,app,Come funziona,risolta,8.3,23.0,
+T01370,2026-06-12,Bologna,Diario,email,Salvataggio,in_lavorazione,12.6,,
+T01031,2026-04-19,Torino,Chat IA,app,Come funziona,risolta,5.4,72.6,5
+T00078,2026-09-21,Torino,Chat IA,web,Come funziona,risolta,114.2,156.8,4
+T01003,2026-07-12,Roma,Chat IA,app,Limiti IA,risolta,23.2,47.9,
+T01525,2026-03-22,Torino,Schede,email,Fonte da verificare,risolta,19.9,30.6,4
+T00245,2026-06-25,Torino,Diario,web,Grafico,risolta,34.6,87.0,5
+T01057,2026-05-18,Torino,Schede,email,Navigazione,risolta,11.0,78.3,
+T01386,2026-05-04,Roma,Chat IA,email,Limiti IA,aperta,2.8,,
+T01049,2026-05-08,Roma,Chat IA,app,Risposta non disponibile,risolta,26.0,101.1,4
+T00765,2026-09-22,Milano,Account,app,Accesso,risolta,30.2,109.7,4
+T01076,2026-05-05,Bologna,Diario,APP,Eliminazione,risolta,1.5,50.4,5
+T01519,2026-01-12,Bologna,Chat IA,web,Risposta non disponibile,risolta,42.7,48.6,4
+T00734,2026-07-29,Bologna,Chat IA,app,Risposta non disponibile,risolta,16.0,78.5,4
+T01597,2026-02-28,Milano,Chat IA,app,Come funziona,risolta,7.9,22.8,5
+T01091,2026-08-20,Torino,Schede,app,Termine da chiarire,risolta,5.0,46.8,3
+T01268,2026-02-28,Bologna,Diario,app,Salvataggio,risolta,17.8,25.8,4
+T01422,2026-07-10,Milano,Schede,app,Fonte da verificare,risolta,1.5,29.6,4
+T01038,2026-02-11,Roma,Diario,web,Salvataggio,risolta,25.9,61.9,4
+T00813,2026-09-29,Torino,Diario,app,Salvataggio,aperta,15.5,,
+T00364,2026-08-28,Bologna,Diario,web,Salvataggio,in_lavorazione,8.8,,
+T01012,2026-07-02,Milano,Schede,web,Termine da chiarire,risolta,8.1,85.4,1
+T01026,2026-07-20,Roma,Account,email,Informazioni privacy,risolta,7.4,72.1,4
+T00987,2026-07-02,Milano, CHAT IA ,web,Risposta non disponibile,risolta,16.1,33.5,
+T00901,2026-02-27,Bologna,Supporto umano,web,Informazioni risorse,risolta,6.1,38.6,4
+T00205,2026-01-09,Bologna,Supporto umano,app,Informazioni risorse,risolta,12.8,9999,3
+T00874,2026-09-25,Milano,Account,web,Accesso,risolta,6.8,48.1,4
+T01214,2026-09-27,Torino,Chat IA,app,Risposta non disponibile,risolta,14.0,31.6,
+T00607,2026-08-26,Milano,Chat IA,web,Come funziona,risolta,15.2,81.8,5
+T01581,2026-09-01,Torino,Diario,app,Grafico,risolta,31.6,70.5,
+T00063,2026-05-11,Bologna,Chat IA,web,Limiti IA,risolta,55.8,97.0,5
+T00561,2026-09-15,Torino,Diario,WEB,Salvataggio,aperta,4.2,,
+T01110,2026-01-30,Torino,Chat IA,web,Limiti IA,risolta,6.5,62.3,4
+T01019,2026-07-02,Roma,Supporto umano,app,Link non raggiungibile,in_lavorazione,16.8,,
+T00420,2026-07-06,Milano,Chat IA,email,Risposta non disponibile,risolta,9.3,28.2,4
+T00793,2026-06-18,Milano,Diario,web,Grafico,risolta,20.6,93.2,
+T00035,2026-02-11,Milano,Diario,app,Eliminazione,risolta,14.4,28.1,
+T01112,2026-06-18,Torino,Schede,email,Termine da chiarire,risolta,12.3,35.0,
+T00926,2026-06-26,Bologna,Chat IA,web,Limiti IA,in_lavorazione,26.3,,
+T00505,2026-04-09,Bologna,Schede,email,Navigazione,risolta,6.4,72.7,
+T00237,2026-06-11,Roma,Chat IA,app,Risposta non disponibile,risolta,22.4,74.9,5
+T01226,2026-09-09,Bologna,Diario,web,Salvataggio,risolta,7.2,79.9,4
+T00076,2026-02-03,Milano, CHAT IA ,app,Limiti IA,risolta,6.5,78.5,5
+T01307,2026-06-03,Roma,Chat IA,web,Risposta non disponibile,risolta,32.4,107.7,4
+T01492,2026-04-23,Milano,Chat IA,app,Come funziona,in_lavorazione,4.6,,
+T01360,2026-07-03,Roma,Supporto umano,app,Informazioni risorse,risolta,19.0,69.6,4
+T00755,2026-07-10,Roma,Chat IA,app,Limiti IA,risolta,23.2,42.3,
+T00186,2026-02-17,Bologna,Schede,web,Termine da chiarire,risolta,13.4,54.2,4
+T00270,2026-04-16,Bologna,Diario,app,Grafico,risolta,17.5,21.4,4
+T00018,2026-01-16,Bologna,Account,app,Informazioni privacy,risolta,8.0,69.4,
+T00787,2026-09-16,Milano,Diario,app,Salvataggio,aperta,9.2,,
+T00896,2026-05-19,Torino,Chat IA,app,Risposta non disponibile,risolta,3.2,42.4,3
+T01028,2026-06-03,Torino,Chat IA,app,Come funziona,risolta,15.3,62.5,4
+T01050,2026-01-07,Bologna,Schede,web,Termine da chiarire,in_lavorazione,8.8,,
+T01207,2026-06-14,Torino,Diario,email,Salvataggio,risolta,9.6,29.2,
+T00946,2026-04-02,Bologna,Schede,web,Termine da chiarire,in_lavorazione,19.6,,
+T00297,2026-06-07,Milano,Schede,web,Fonte da verificare,risolta,10.5,89.0,2
+T00865,2026-03-26,Milano,Account,app,Informazioni privacy,aperta,12.2,,
+T00930,2026-03-09,Bologna,Chat IA,web,Come funziona,risolta,9.2,81.7,
+T00107,2026-02-10,Bologna,Chat IA,app,Risposta non disponibile,aperta,17.5,,
+T00841,2026-09-16,Torino,Diario,web,Salvataggio,risolta,43.6,105.6,5
+T00109,2026-07-27,Torino,Schede,app,Termine da chiarire,risolta,4.5,26.5,
+T00703,2026-01-18,Torino,Diario,web,Eliminazione,aperta,4.1,,
+T00331,2026-07-09,Torino,Diario,web,Grafico,risolta,2.8,16.8,4
+T00042,2026-05-29,Milano,Account,email,Informazioni privacy,in_lavorazione,13.3,,
+T00275,2026-07-07,Milano,Supporto umano,web,Link non raggiungibile,risolta,21.0,46.8,5
+T00454,2026-09-03,Milano,Diario,web,Grafico,risolta,10.8,53.9,4
+T01266,2026-09-23,Bologna,Supporto umano,web,Link non raggiungibile,risolta,8.2,21.5,4
+T01261,2026-09-14,Milano,Diario,app,Grafico,risolta,16.7,68.0,
+T01217,2026-02-26,Bologna,Schede,app,Navigazione,aperta,8.4,,
+T00535,2026-05-01,Milano,Diario,app,Eliminazione,risolta,7.8,33.4,4
+T00127,2026-02-11,Roma,Diario,email,Grafico,risolta,15.0,106.2,4
+T01179,2026-09-03,Bologna,Schede,app,Termine da chiarire,risolta,18.8,101.1,4
+T00308,2026-06-18,Torino,Diario,app,Salvataggio,risolta,22.9,113.5,4
+T01449,2026-01-30,Roma,Chat IA,web,Come funziona,risolta,10.3,50.6,
+T01398,2026-07-12,Bologna,Diario,app,Grafico,risolta,11.1,70.2,
+T00469,2026-09-08,Bologna,Schede,app,Navigazione,risolta,2.8,57.7,4
+T01442,2026-04-05,Bologna,Diario,app,Salvataggio,in_lavorazione,4.5,,
+T00817,2026-03-06,Bologna,Account,web,Informazioni privacy,aperta,6.8,,
+T00768,2026-02-13,Torino,Schede,app,Navigazione,risolta,10.4,75.5,4
+T00220,2026-07-25,Torino,Chat IA,app,Come funziona,risolta,23.4,83.0,5
+T01437,2026-09-15,Roma,Schede,app,Termine da chiarire,aperta,9.8,,
+T00340,13/02/2026,Bologna,Supporto umano,app,Link non raggiungibile,risolta,36.3,94.4,5
+T00957,2026-06-08,Bologna,Chat IA,email,Limiti IA,risolta,21.8,26.1,5
+T00446,2026-05-16,Torino,Schede,app,Fonte da verificare,risolta,18.4,28.6,5
+T00326,2026-09-28,Milano,Supporto umano,WEB,Informazioni risorse,risolta,6.2,69.9,4
+T00207,2026-06-11,Bologna,Chat IA,email,Come funziona,risolta,4.3,10.8,
+T00575,2026-08-19,Milano,Chat IA,web,Limiti IA,risolta,9.5,57.9,
+T00609,2026-02-14,Torino,Supporto umano,app,Informazioni risorse,risolta,8.5,19.2,4
+T01319,2026-09-14,Roma,Schede,app,Navigazione,risolta,22.2,48.5,4
+T00484,2026-04-15,Roma,Account,app,Accesso,risolta,34.3,92.2,
+T01554,2026-09-02,Torino,Schede,app,Navigazione,risolta,3.7,18.3,3
+T01128,2026-08-04,Milano,Schede,web,Navigazione,risolta,5.5,17.2,
+T00236,2026-07-05,Roma,Account,app,Informazioni privacy,risolta,18.5,53.8,4
+T00214,2026-02-07,Roma,Chat IA,app,Risposta non disponibile,risolta,7.5,61.9,5
+T00952,2026-03-02,Torino,Account,email,Accesso,risolta,5.3,31.9,4
+T01549,2026-04-01,Roma,Chat IA,app,Limiti IA,risolta,35.3,81.5,
+T00689,2026-02-27,Torino,Diario,web,Eliminazione,in_lavorazione,18.0,,
+T00500,2026-03-11,Bologna,Chat IA,web,Limiti IA,risolta,8.6,69.8,2
+T00138,2026-04-30,Roma,Schede,app,Navigazione,risolta,10.0,31.6,4
+T01332,2026-03-07,Milano,Chat IA,app,Risposta non disponibile,risolta,20.0,46.7,4
+T01130,2026-08-30,Torino,Schede,app,Fonte da verificare,risolta,2.5,65.6,
+T01174,2026-06-29,Torino,Chat IA,app,Risposta non disponibile,aperta,5.5,,
+T01188,2026-04-07,Roma,Account,app,Informazioni privacy,risolta,4.7,29.6,4
+T00036,2026-02-19,Roma,Account,app,Accesso,risolta,9.6,23.4,3
+T01424,2026-09-11,Torino,Supporto umano,web,Informazioni risorse,aperta,8.2,,
+T00779,2026-02-25,Milano,Chat IA,app,Limiti IA,risolta,10.4,66.1,4
+T00751,2026-06-21,Torino,Diario,app,Salvataggio,risolta,33.1,56.6,
+T00645,2026-09-29,Milano,Diario,web,Salvataggio,risolta,10.0,84.8,
+T01403,2026-09-13,Roma,Supporto umano,web,Informazioni risorse,in_lavorazione,17.7,,
+T00923,2026-06-30,Roma,Schede,app,Fonte da verificare,risolta,30.6,44.7,5
+T01489,2026-09-18,Milano,Diario,web,Eliminazione,risolta,21.7,110.4,
+T01392,2026-06-10,Bologna,Chat IA,email,Come funziona,aperta,7.5,,
+T00441,2026-06-20,Torino,Supporto umano,web,Informazioni risorse,in_lavorazione,12.5,,
+T00699,2026-09-24,Bologna,Chat IA,app,Limiti IA,risolta,42.5,85.8,4
+T01476,2026-08-31,Milano,Chat IA,web,Limiti IA,risolta,4.8,96.1,4
+T01532,2026-08-20,Milano,Diario,email,Salvataggio,risolta,4.2,26.2,4
+T01053,2026-06-11,Bologna,Chat IA,app,Limiti IA,risolta,32.8,78.0,
+T00316,2026-04-22,Milano,Diario,web,Eliminazione,in_lavorazione,5.3,,
+T00868,2026-04-07,Roma,Chat IA,web,Risposta non disponibile,risolta,-3,78.4,4
+T00368,2026-08-10,Bologna,Chat IA,web,Risposta non disponibile,risolta,59.6,110.5,4
+T00418,2026-03-28,Torino,Chat IA,web,Risposta non disponibile,risolta,4.6,14.6,4
+T00477,2026-02-08,Roma,Chat IA,app,Risposta non disponibile,risolta,18.5,75.0,
+T00092,2026-01-10,Torino,Diario,app,Eliminazione,risolta,18.2,72.5,5
+T00482,2026-09-19,Bologna,Supporto umano,web,Informazioni risorse,risolta,18.6,111.7,5
+T00806,2026-09-04,Roma,Chat IA,app,Limiti IA,aperta,8.3,,
+T01108,2026-09-14,Milano,Account,web,Informazioni privacy,aperta,13.5,,
+T00835,2026-08-11,Roma,Supporto umano,app,Informazioni risorse,risolta,8.8,26.0,
